@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Nanum Gothic', sans-serif;
+    src: url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+    font-weight: normal;
+    font-style: normal
+}
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 24px;
+    line-height: 1;
+    color: #52514e;
+    background-color: #FFF;
+    width: 50%;
+    height: 50%;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.vocab-info-container {
+    font-size: 16px;
+    color: #969691;
+}
+
+.footer-content {
+    border:1px solid black;
+    height:100px;
+    left: 0px;
+    right:0px;
+    bottom: 0px;
+    display: none;
+    position: absolute;
+    font-size: 12px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height:25px;
+    width: 100%;
+    display: inline-block;
+    background-color: #FFF;
+    font-size: 16px;
+    margin: auto;
+}
+
+.footer-text {
+    position: fixed;
+    right: 10;
+    cursor:pointer;
+}
+
+.modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        -25;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 )
+    url('ajax-loader.gif')
+    50% 50%
+    no-repeat;
+}
+
+body.loading {
+    overflow: hidden;
+}
+
+body.loading .modal {
+    display: block;
+}

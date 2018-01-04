@@ -1,0 +1,5002 @@
+[
+ {
+   "id": 1,
+   "word": "것",
+   "definition": "A thing or  an object"
+ },
+ {
+   "id": 2,
+   "word": "하다",
+   "definition": "To do"
+ },
+ {
+   "id": 3,
+   "word": "있다",
+   "definition": "To be"
+ },
+ {
+   "id": 4,
+   "word": "수",
+   "definition": "way, method, Number"
+ },
+ {
+   "id": 5,
+   "word": "하다",
+   "definition": "To do"
+ },
+ {
+   "id": 6,
+   "word": "나",
+   "definition": "I"
+ },
+ {
+   "id": 7,
+   "word": "없다",
+   "definition": "Do not exist, absent"
+ },
+ {
+   "id": 8,
+   "word": "않다",
+   "definition": "To not do"
+ },
+ {
+   "id": 9,
+   "word": "사람",
+   "definition": "Person"
+ },
+ {
+   "id": 10,
+   "word": "우리",
+   "definition": "we, our"
+ },
+ {
+   "id": 11,
+   "word": "그",
+   "definition": "He, That"
+ },
+ {
+   "id": 12,
+   "word": "아니다",
+   "definition": "To not be"
+ },
+ {
+   "id": 13,
+   "word": "보다",
+   "definition": "To try"
+ },
+ {
+   "id": 14,
+   "word": "거",
+   "definition": "thing"
+ },
+ {
+   "id": 15,
+   "word": "보다",
+   "definition": "To see"
+ },
+ {
+   "id": 16,
+   "word": "같다",
+   "definition": "To be similar"
+ },
+ {
+   "id": 17,
+   "word": "주다",
+   "definition": "To give, to do for a person"
+ },
+ {
+   "id": 18,
+   "word": "대하다",
+   "definition": "Face, confront"
+ },
+ {
+   "id": 19,
+   "word": "가다",
+   "definition": "To go"
+ },
+ {
+   "id": 20,
+   "word": "년",
+   "definition": "Year"
+ },
+ {
+   "id": 21,
+   "word": "한",
+   "definition": "One, a single"
+ },
+ {
+   "id": 22,
+   "word": "말",
+   "definition": "words,speaking"
+ },
+ {
+   "id": 23,
+   "word": "일",
+   "definition": "Work"
+ },
+ {
+   "id": 24,
+   "word": "이",
+   "definition": "A person, This"
+ },
+ {
+   "id": 25,
+   "word": "말하다",
+   "definition": "Speak"
+ },
+ {
+   "id": 26,
+   "word": "위하다",
+   "definition": "To do for the sake of"
+ },
+ {
+   "id": 27,
+   "word": "그러나",
+   "definition": "However or  but still"
+ },
+ {
+   "id": 28,
+   "word": "오다",
+   "definition": "To come"
+ },
+ {
+   "id": 29,
+   "word": "알다",
+   "definition": "To know"
+ },
+ {
+   "id": 30,
+   "word": "씨",
+   "definition": "~ Mr."
+ },
+ {
+   "id": 31,
+   "word": "그렇다",
+   "definition": "That is right or  yes."
+ },
+ {
+   "id": 32,
+   "word": "크다",
+   "definition": "To be big, large"
+ },
+ {
+   "id": 33,
+   "word": "일",
+   "definition": "One day"
+ },
+ {
+   "id": 34,
+   "word": "사회",
+   "definition": "culture,society"
+ },
+ {
+   "id": 35,
+   "word": "많다",
+   "definition": "many, much"
+ },
+ {
+   "id": 36,
+   "word": "안",
+   "definition": "~ not ~ + VERB"
+ },
+ {
+   "id": 37,
+   "word": "좋다",
+   "definition": "To be good"
+ },
+ {
+   "id": 38,
+   "word": "더",
+   "definition": "More"
+ },
+ {
+   "id": 39,
+   "word": "받다",
+   "definition": "Receive"
+ },
+ {
+   "id": 40,
+   "word": "그것",
+   "definition": "That thing"
+ },
+ {
+   "id": 41,
+   "word": "집",
+   "definition": "House"
+ },
+ {
+   "id": 42,
+   "word": "나오다",
+   "definition": "Come out"
+ },
+ {
+   "id": 43,
+   "word": "그리고",
+   "definition": "And or  and then"
+ },
+ {
+   "id": 44,
+   "word": "문제",
+   "definition": "question,problem"
+ },
+ {
+   "id": 45,
+   "word": "그런",
+   "definition": "Such a"
+ },
+ {
+   "id": 46,
+   "word": "살다",
+   "definition": "To live"
+ },
+ {
+   "id": 47,
+   "word": "저",
+   "definition": "That"
+ },
+ {
+   "id": 48,
+   "word": "못하다",
+   "definition": "Be impossible"
+ },
+ {
+   "id": 49,
+   "word": "생각하다",
+   "definition": "To think"
+ },
+ {
+   "id": 50,
+   "word": "모르다",
+   "definition": "To not know"
+ },
+ {
+   "id": 51,
+   "word": "속",
+   "definition": "The inside"
+ },
+ {
+   "id": 52,
+   "word": "만들다",
+   "definition": "To make"
+ },
+ {
+   "id": 53,
+   "word": "데",
+   "definition": "Place, point, instance"
+ },
+ {
+   "id": 54,
+   "word": "앞",
+   "definition": "In front of, before"
+ },
+ {
+   "id": 55,
+   "word": "경우",
+   "definition": "A case or  an instance"
+ },
+ {
+   "id": 56,
+   "word": "중",
+   "definition": "The center, the middle"
+ },
+ {
+   "id": 57,
+   "word": "어떤",
+   "definition": "What kind of, what sort of"
+ },
+ {
+   "id": 58,
+   "word": "잘",
+   "definition": "Well"
+ },
+ {
+   "id": 59,
+   "word": "그녀",
+   "definition": "She"
+ },
+ {
+   "id": 60,
+   "word": "먹다",
+   "definition": "Eat, chow down on"
+ },
+ {
+   "id": 61,
+   "word": "자신",
+   "definition": "one’s own self, one\\’s own body"
+ },
+ {
+   "id": 62,
+   "word": "문화",
+   "definition": "culture"
+ },
+ {
+   "id": 63,
+   "word": "원",
+   "definition": "A unit of south korean  money, KRW"
+ },
+ {
+   "id": 64,
+   "word": "생각",
+   "definition": "Thought"
+ },
+ {
+   "id": 65,
+   "word": "어떻다",
+   "definition": "how,what.. do you think of"
+ },
+ {
+   "id": 66,
+   "word": "명",
+   "definition": "Person counter"
+ },
+ {
+   "id": 67,
+   "word": "통하다",
+   "definition": "Run, lead; flow; go through"
+ },
+ {
+   "id": 68,
+   "word": "그러다",
+   "definition": "and so, and then, well"
+ },
+ {
+   "id": 69,
+   "word": "그러다",
+   "definition": "and so, and then, well"
+ },
+ {
+   "id": 70,
+   "word": "소리",
+   "definition": "A sound,noise"
+ },
+ {
+   "id": 71,
+   "word": "다시",
+   "definition": "Again"
+ },
+ {
+   "id": 72,
+   "word": "다른",
+   "definition": "Different"
+ },
+ {
+   "id": 73,
+   "word": "이런",
+   "definition": "Such, like this"
+ },
+ {
+   "id": 74,
+   "word": "여자",
+   "definition": "woman,female"
+ },
+ {
+   "id": 75,
+   "word": "개",
+   "definition": "Unit or  piece"
+ },
+ {
+   "id": 76,
+   "word": "정도",
+   "definition": "grade,degree"
+ },
+ {
+   "id": 77,
+   "word": "다",
+   "definition": "All, everything"
+ },
+ {
+   "id": 78,
+   "word": "좀",
+   "definition": "A little"
+ },
+ {
+   "id": 79,
+   "word": "싶다",
+   "definition": "want,hope"
+ },
+ {
+   "id": 80,
+   "word": "보이다",
+   "definition": "see,catch sight of"
+ },
+ {
+   "id": 81,
+   "word": "가지다",
+   "definition": "To have or  take or  hold"
+ },
+ {
+   "id": 82,
+   "word": "함께",
+   "definition": "Together, with"
+ },
+ {
+   "id": 83,
+   "word": "아이",
+   "definition": "Child"
+ },
+ {
+   "id": 84,
+   "word": "지나다",
+   "definition": "pass,elapse,go on"
+ },
+ {
+   "id": 85,
+   "word": "많이",
+   "definition": "A lot"
+ },
+ {
+   "id": 86,
+   "word": "시간",
+   "definition": "Time"
+ },
+ {
+   "id": 87,
+   "word": "너",
+   "definition": "You"
+ },
+ {
+   "id": 88,
+   "word": "인간",
+   "definition": "A person, a human being"
+ },
+ {
+   "id": 89,
+   "word": "사실",
+   "definition": "The truth, a fact"
+ },
+ {
+   "id": 90,
+   "word": "나다",
+   "definition": "To be born"
+ },
+ {
+   "id": 91,
+   "word": "이렇다",
+   "definition": "Like this"
+ },
+ {
+   "id": 92,
+   "word": "어머니",
+   "definition": "Mom"
+ },
+ {
+   "id": 93,
+   "word": "눈",
+   "definition": "Eyes"
+ },
+ {
+   "id": 94,
+   "word": "뭐",
+   "definition": "Huh? (2) something"
+ },
+ {
+   "id": 95,
+   "word": "점",
+   "definition": "Store"
+ },
+ {
+   "id": 96,
+   "word": "의하다",
+   "definition": "To be due to, owing to"
+ },
+ {
+   "id": 97,
+   "word": "시대",
+   "definition": "An age,period"
+ },
+ {
+   "id": 98,
+   "word": "다음",
+   "definition": "Next"
+ },
+ {
+   "id": 99,
+   "word": "이러하다",
+   "definition": "Be this way, be like follows"
+ },
+ {
+   "id": 100,
+   "word": "누구",
+   "definition": "Who"
+ },
+ {
+   "id": 101,
+   "word": "곳",
+   "definition": "Place"
+ },
+ {
+   "id": 102,
+   "word": "여러",
+   "definition": "many,various"
+ },
+ {
+   "id": 103,
+   "word": "안",
+   "definition": "Inside"
+ },
+ {
+   "id": 104,
+   "word": "하나",
+   "definition": "One"
+ },
+ {
+   "id": 105,
+   "word": "세계",
+   "definition": "World"
+ },
+ {
+   "id": 106,
+   "word": "버리다",
+   "definition": "(following a verb) the verb\\’s action is over, perhaps in a sad way"
+ },
+ {
+   "id": 107,
+   "word": "위",
+   "definition": "The upper part, above"
+ },
+ {
+   "id": 108,
+   "word": "운동",
+   "definition": "Motion, movement"
+ },
+ {
+   "id": 109,
+   "word": "퍼센트",
+   "definition": "Percent"
+ },
+ {
+   "id": 110,
+   "word": "학교",
+   "definition": "School"
+ },
+ {
+   "id": 111,
+   "word": "자기",
+   "definition": "Oneself, number one, numerouno, self"
+ },
+ {
+   "id": 112,
+   "word": "가장",
+   "definition": "Most"
+ },
+ {
+   "id": 113,
+   "word": "대통령",
+   "definition": "The president"
+ },
+ {
+   "id": 114,
+   "word": "가지",
+   "definition": "One of the kind or  a sort"
+ },
+ {
+   "id": 115,
+   "word": "시작하다",
+   "definition": "To start,begin"
+ },
+ {
+   "id": 116,
+   "word": "바로",
+   "definition": "Right, correctly"
+ },
+ {
+   "id": 117,
+   "word": "어느",
+   "definition": "Some, a certain"
+ },
+ {
+   "id": 118,
+   "word": "그래서",
+   "definition": "And so accordingly"
+ },
+ {
+   "id": 119,
+   "word": "무엇",
+   "definition": "That thing,whatever"
+ },
+ {
+   "id": 120,
+   "word": "정부",
+   "definition": "Government"
+ },
+ {
+   "id": 121,
+   "word": "모든",
+   "definition": "Every one"
+ },
+ {
+   "id": 122,
+   "word": "번",
+   "definition": "Number, how many times"
+ },
+ {
+   "id": 123,
+   "word": "그거",
+   "definition": "That thing"
+ },
+ {
+   "id": 124,
+   "word": "돈",
+   "definition": "Money"
+ },
+ {
+   "id": 125,
+   "word": "국가",
+   "definition": "A state or  a nation"
+ },
+ {
+   "id": 126,
+   "word": "그런데",
+   "definition": "But or  however"
+ },
+ {
+   "id": 127,
+   "word": "날",
+   "definition": "Day"
+ },
+ {
+   "id": 128,
+   "word": "여기",
+   "definition": "A hobby"
+ },
+ {
+   "id": 129,
+   "word": "모두",
+   "definition": "Everybody"
+ },
+ {
+   "id": 130,
+   "word": "여성",
+   "definition": "Female"
+ },
+ {
+   "id": 131,
+   "word": "친구",
+   "definition": "A friend"
+ },
+ {
+   "id": 132,
+   "word": "마음",
+   "definition": "Heart"
+ },
+ {
+   "id": 133,
+   "word": "후",
+   "definition": "After"
+ },
+ {
+   "id": 134,
+   "word": "놓다",
+   "definition": "Put, place"
+ },
+ {
+   "id": 135,
+   "word": "관계",
+   "definition": "Connection or  relation"
+ },
+ {
+   "id": 136,
+   "word": "아버지",
+   "definition": "Father"
+ },
+ {
+   "id": 137,
+   "word": "남자",
+   "definition": "Boy"
+ },
+ {
+   "id": 138,
+   "word": "어디",
+   "definition": "Where?"
+ },
+ {
+   "id": 139,
+   "word": "몸",
+   "definition": "body,physique"
+ },
+ {
+   "id": 140,
+   "word": "얼굴",
+   "definition": "Face"
+ },
+ {
+   "id": 141,
+   "word": "왜",
+   "definition": "Why?"
+ },
+ {
+   "id": 142,
+   "word": "나타나다",
+   "definition": "Come out, appear"
+ },
+ {
+   "id": 143,
+   "word": "지역",
+   "definition": "An area, region"
+ },
+ {
+   "id": 144,
+   "word": "다르다",
+   "definition": "Be different"
+ },
+ {
+   "id": 145,
+   "word": "모습",
+   "definition": "shape,body"
+ },
+ {
+   "id": 146,
+   "word": "물",
+   "definition": "Water"
+ },
+ {
+   "id": 147,
+   "word": "만나다",
+   "definition": "Meet"
+ },
+ {
+   "id": 148,
+   "word": "내다",
+   "definition": "produce something"
+ },
+ {
+   "id": 149,
+   "word": "보이다",
+   "definition": "show,let see"
+ },
+ {
+   "id": 150,
+   "word": "쓰다",
+   "definition": "To write"
+ },
+ {
+   "id": 151,
+   "word": "이것",
+   "definition": "This thing"
+ },
+ {
+   "id": 152,
+   "word": "없이",
+   "definition": "Without"
+ },
+ {
+   "id": 153,
+   "word": "이번",
+   "definition": "This time"
+ },
+ {
+   "id": 154,
+   "word": "길",
+   "definition": "Road"
+ },
+ {
+   "id": 155,
+   "word": "생활",
+   "definition": "lifestyle,livelihood"
+ },
+ {
+   "id": 156,
+   "word": "쓰다",
+   "definition": "Take (medicine)"
+ },
+ {
+   "id": 157,
+   "word": "뿐",
+   "definition": "only,alone,merely"
+ },
+ {
+   "id": 158,
+   "word": "사이",
+   "definition": "space between 2 points; the relationship between 2 people"
+ },
+ {
+   "id": 159,
+   "word": "방법",
+   "definition": "Way, method"
+ },
+ {
+   "id": 160,
+   "word": "새롭다",
+   "definition": "To be new,novel"
+ },
+ {
+   "id": 161,
+   "word": "내다",
+   "definition": "to see through, to make it through sth"
+ },
+ {
+   "id": 162,
+   "word": "앉다",
+   "definition": "To sit down"
+ },
+ {
+   "id": 163,
+   "word": "처음",
+   "definition": "First"
+ },
+ {
+   "id": 164,
+   "word": "손",
+   "definition": "The hand"
+ },
+ {
+   "id": 165,
+   "word": "몇",
+   "definition": "A few"
+ },
+ {
+   "id": 166,
+   "word": "그때",
+   "definition": "Then or  at that time"
+ },
+ {
+   "id": 167,
+   "word": "과정",
+   "definition": "Process or  course"
+ },
+ {
+   "id": 168,
+   "word": "삶",
+   "definition": "Life"
+ },
+ {
+   "id": 169,
+   "word": "갖다",
+   "definition": "To hold"
+ },
+ {
+   "id": 170,
+   "word": "찾다",
+   "definition": "seek,look for"
+ },
+ {
+   "id": 171,
+   "word": "특히",
+   "definition": "Especially"
+ },
+ {
+   "id": 172,
+   "word": "시",
+   "definition": "Time"
+ },
+ {
+   "id": 173,
+   "word": "이상",
+   "definition": "More than, above"
+ },
+ {
+   "id": 174,
+   "word": "지금",
+   "definition": "Now"
+ },
+ {
+   "id": 175,
+   "word": "나가다",
+   "definition": "To go out"
+ },
+ {
+   "id": 176,
+   "word": "이야기",
+   "definition": "Conversation, talk"
+ },
+ {
+   "id": 177,
+   "word": "교육",
+   "definition": "Education"
+ },
+ {
+   "id": 178,
+   "word": "사다",
+   "definition": "To buy, purchase"
+ },
+ {
+   "id": 179,
+   "word": "경제",
+   "definition": "Economy"
+ },
+ {
+   "id": 180,
+   "word": "아직",
+   "definition": "Still"
+ },
+ {
+   "id": 181,
+   "word": "잡다",
+   "definition": "seize,catch"
+ },
+ {
+   "id": 182,
+   "word": "같이",
+   "definition": "Together"
+ },
+ {
+   "id": 183,
+   "word": "선생님",
+   "definition": "Teacher"
+ },
+ {
+   "id": 184,
+   "word": "예술",
+   "definition": "Art, an art"
+ },
+ {
+   "id": 185,
+   "word": "서다",
+   "definition": "To stand"
+ },
+ {
+   "id": 186,
+   "word": "못",
+   "definition": "Cannot"
+ },
+ {
+   "id": 187,
+   "word": "역사",
+   "definition": "History"
+ },
+ {
+   "id": 188,
+   "word": "읽다",
+   "definition": "To read"
+ },
+ {
+   "id": 189,
+   "word": "결과",
+   "definition": "Result"
+ },
+ {
+   "id": 190,
+   "word": "내용",
+   "definition": "Contents"
+ },
+ {
+   "id": 191,
+   "word": "물론",
+   "definition": "Of course"
+ },
+ {
+   "id": 192,
+   "word": "책",
+   "definition": "A book"
+ },
+ {
+   "id": 193,
+   "word": "일어나다",
+   "definition": "To rise, get up"
+ },
+ {
+   "id": 194,
+   "word": "당신",
+   "definition": "Formal you"
+ },
+ {
+   "id": 195,
+   "word": "시장",
+   "definition": "market,fair"
+ },
+ {
+   "id": 196,
+   "word": "넣다",
+   "definition": "Put in, set in"
+ },
+ {
+   "id": 197,
+   "word": "중요하다",
+   "definition": "To be important,weighty"
+ },
+ {
+   "id": 198,
+   "word": "무슨",
+   "definition": "What, what kind of"
+ },
+ {
+   "id": 199,
+   "word": "느끼다",
+   "definition": "To feel"
+ },
+ {
+   "id": 200,
+   "word": "어렵다",
+   "definition": "To be hard, difficult"
+ },
+ {
+   "id": 201,
+   "word": "힘",
+   "definition": "Power"
+ },
+ {
+   "id": 202,
+   "word": "너무",
+   "definition": "Too much"
+ },
+ {
+   "id": 203,
+   "word": "나라",
+   "definition": "A country"
+ },
+ {
+   "id": 204,
+   "word": "부르다",
+   "definition": "To call"
+ },
+ {
+   "id": 205,
+   "word": "의미",
+   "definition": "A meaning, a sense"
+ },
+ {
+   "id": 206,
+   "word": "자리",
+   "definition": "seat,spot"
+ },
+ {
+   "id": 207,
+   "word": "밝히다",
+   "definition": "To light up"
+ },
+ {
+   "id": 208,
+   "word": "죽다",
+   "definition": "die,pass away"
+ },
+ {
+   "id": 209,
+   "word": "이미",
+   "definition": "Already"
+ },
+ {
+   "id": 210,
+   "word": "쪽",
+   "definition": "Way, direction"
+ },
+ {
+   "id": 211,
+   "word": "정치",
+   "definition": "Politics"
+ },
+ {
+   "id": 212,
+   "word": "국민",
+   "definition": "The people or  a nationality"
+ },
+ {
+   "id": 213,
+   "word": "생명",
+   "definition": "Life"
+ },
+ {
+   "id": 214,
+   "word": "얘기",
+   "definition": "Story"
+ },
+ {
+   "id": 215,
+   "word": "학생",
+   "definition": "Student"
+ },
+ {
+   "id": 216,
+   "word": "연구",
+   "definition": "Research"
+ },
+ {
+   "id": 217,
+   "word": "엄마",
+   "definition": "Mamma"
+ },
+ {
+   "id": 218,
+   "word": "이름",
+   "definition": "Name"
+ },
+ {
+   "id": 219,
+   "word": "하나",
+   "definition": "One"
+ },
+ {
+   "id": 220,
+   "word": "내리다",
+   "definition": "Descend"
+ },
+ {
+   "id": 221,
+   "word": "사건",
+   "definition": "An event,incident"
+ },
+ {
+   "id": 222,
+   "word": "및",
+   "definition": "As well as"
+ },
+ {
+   "id": 223,
+   "word": "쉽다",
+   "definition": "To be easy"
+ },
+ {
+   "id": 224,
+   "word": "짓다",
+   "definition": "To make, build ; to form a line (a group)"
+ },
+ {
+   "id": 225,
+   "word": "이유",
+   "definition": "Reason"
+ },
+ {
+   "id": 226,
+   "word": "필요하다",
+   "definition": "To need"
+ },
+ {
+   "id": 227,
+   "word": "글",
+   "definition": "words, a verse"
+ },
+ {
+   "id": 228,
+   "word": "생기다",
+   "definition": "arise,occur,happen"
+ },
+ {
+   "id": 229,
+   "word": "사용하다",
+   "definition": "To use"
+ },
+ {
+   "id": 230,
+   "word": "남편",
+   "definition": "Husband"
+ },
+ {
+   "id": 231,
+   "word": "밖",
+   "definition": "The outside"
+ },
+ {
+   "id": 232,
+   "word": "세상",
+   "definition": "The world,society"
+ },
+ {
+   "id": 233,
+   "word": "작다",
+   "definition": "Small"
+ },
+ {
+   "id": 234,
+   "word": "타다",
+   "definition": "Ride (bus)"
+ },
+ {
+   "id": 235,
+   "word": "대학",
+   "definition": "University"
+ },
+ {
+   "id": 236,
+   "word": "작품",
+   "definition": "A work of art"
+ },
+ {
+   "id": 237,
+   "word": "상황",
+   "definition": "State of things"
+ },
+ {
+   "id": 238,
+   "word": "가운데",
+   "definition": "In the middle"
+ },
+ {
+   "id": 239,
+   "word": "보내다",
+   "definition": "Send"
+ },
+ {
+   "id": 240,
+   "word": "즉",
+   "definition": "namely,that is to say"
+ },
+ {
+   "id": 241,
+   "word": "상태",
+   "definition": "condition,state"
+ },
+ {
+   "id": 242,
+   "word": "이후",
+   "definition": "After that"
+ },
+ {
+   "id": 243,
+   "word": "당시",
+   "definition": "At that time"
+ },
+ {
+   "id": 244,
+   "word": "문학",
+   "definition": "Literature"
+ },
+ {
+   "id": 245,
+   "word": "더욱",
+   "definition": "More and more"
+ },
+ {
+   "id": 246,
+   "word": "아주",
+   "definition": "Extremely"
+ },
+ {
+   "id": 247,
+   "word": "지방",
+   "definition": "A locality, district"
+ },
+ {
+   "id": 248,
+   "word": "밤",
+   "definition": "Night"
+ },
+ {
+   "id": 249,
+   "word": "높다",
+   "definition": "High"
+ },
+ {
+   "id": 250,
+   "word": "최근",
+   "definition": "Recently"
+ },
+ {
+   "id": 251,
+   "word": "채",
+   "definition": "As it is, no change"
+ },
+ {
+   "id": 252,
+   "word": "현실",
+   "definition": "Actuality, reality"
+ },
+ {
+   "id": 253,
+   "word": "환경",
+   "definition": "Environment"
+ },
+ {
+   "id": 254,
+   "word": "컴퓨터",
+   "definition": "Computer"
+ },
+ {
+   "id": 255,
+   "word": "먼저",
+   "definition": "First"
+ },
+ {
+   "id": 256,
+   "word": "다니다",
+   "definition": "Go to and from a aplace"
+ },
+ {
+   "id": 257,
+   "word": "얼마나",
+   "definition": "How many, how much"
+ },
+ {
+   "id": 258,
+   "word": "자체",
+   "definition": "one’s own body"
+ },
+ {
+   "id": 259,
+   "word": "열다",
+   "definition": "Open"
+ },
+ {
+   "id": 260,
+   "word": "머리",
+   "definition": "Head"
+ },
+ {
+   "id": 261,
+   "word": "묻다",
+   "definition": "to Ask"
+ },
+ {
+   "id": 262,
+   "word": "남다",
+   "definition": "Remain, be left over"
+ },
+ {
+   "id": 263,
+   "word": "부분",
+   "definition": "part,portion"
+ },
+ {
+   "id": 264,
+   "word": "기업",
+   "definition": "An enterprise or business"
+ },
+ {
+   "id": 265,
+   "word": "변화",
+   "definition": "Change, transformation"
+ },
+ {
+   "id": 266,
+   "word": "아들",
+   "definition": "son,baby"
+ },
+ {
+   "id": 267,
+   "word": "아",
+   "definition": "Oh dear"
+ },
+ {
+   "id": 268,
+   "word": "선거",
+   "definition": "An election"
+ },
+ {
+   "id": 269,
+   "word": "관하다",
+   "definition": "Refer to or  be about"
+ },
+ {
+   "id": 270,
+   "word": "분",
+   "definition": "Minutes"
+ },
+ {
+   "id": 271,
+   "word": "그냥",
+   "definition": "Just because or  in that condition"
+ },
+ {
+   "id": 272,
+   "word": "나누다",
+   "definition": "To divide"
+ },
+ {
+   "id": 273,
+   "word": "이용하다",
+   "definition": "To use, make use of"
+ },
+ {
+   "id": 274,
+   "word": "거의",
+   "definition": "Almost or  nearly"
+ },
+ {
+   "id": 275,
+   "word": "곧",
+   "definition": "Soon"
+ },
+ {
+   "id": 276,
+   "word": "중심",
+   "definition": "The nucleus, the focus, the heart"
+ },
+ {
+   "id": 277,
+   "word": "활동",
+   "definition": "Activity"
+ },
+ {
+   "id": 278,
+   "word": "오늘",
+   "definition": "Today"
+ },
+ {
+   "id": 279,
+   "word": "서로",
+   "definition": "mutually,one another"
+ },
+ {
+   "id": 280,
+   "word": "관심",
+   "definition": "Concern or  interest"
+ },
+ {
+   "id": 281,
+   "word": "역시",
+   "definition": "As expected, likewise"
+ },
+ {
+   "id": 282,
+   "word": "이거",
+   "definition": "This thing"
+ },
+ {
+   "id": 283,
+   "word": "애",
+   "definition": "A baby, or a slightly derogative word for person"
+ },
+ {
+   "id": 284,
+   "word": "광고",
+   "definition": "Advertisement"
+ },
+ {
+   "id": 285,
+   "word": "나다",
+   "definition": "To come out, grow, spring up"
+ },
+ {
+   "id": 286,
+   "word": "방",
+   "definition": "A room"
+ },
+ {
+   "id": 287,
+   "word": "정신",
+   "definition": "mind,spirit"
+ },
+ {
+   "id": 288,
+   "word": "이르다",
+   "definition": "To reach, arrive, get at"
+ },
+ {
+   "id": 289,
+   "word": "이루다",
+   "definition": "Accomplish, complete"
+ },
+ {
+   "id": 290,
+   "word": "아침",
+   "definition": "Morning"
+ },
+ {
+   "id": 291,
+   "word": "웃다",
+   "definition": "To laugh, smile"
+ },
+ {
+   "id": 292,
+   "word": "현상",
+   "definition": "The present situation, state"
+ },
+ {
+   "id": 293,
+   "word": "기술",
+   "definition": "Art or  technique or  ability"
+ },
+ {
+   "id": 294,
+   "word": "전체",
+   "definition": "The whole, the entire section"
+ },
+ {
+   "id": 295,
+   "word": "그래",
+   "definition": "So or  yes or  that’s right"
+ },
+ {
+   "id": 296,
+   "word": "얻다",
+   "definition": "Get, obtain"
+ },
+ {
+   "id": 297,
+   "word": "아름답다",
+   "definition": "To be beautiful"
+ },
+ {
+   "id": 298,
+   "word": "끝",
+   "definition": "The end"
+ },
+ {
+   "id": 299,
+   "word": "민족",
+   "definition": "race,nation,people"
+ },
+ {
+   "id": 300,
+   "word": "간",
+   "definition": "The interval between"
+ },
+ {
+   "id": 301,
+   "word": "조사",
+   "definition": "investigation,inquiry"
+ },
+ {
+   "id": 302,
+   "word": "듯",
+   "definition": "To be like something"
+ },
+ {
+   "id": 303,
+   "word": "입",
+   "definition": "Mouth"
+ },
+ {
+   "id": 304,
+   "word": "뭐",
+   "definition": "Huh? (2) something"
+ },
+ {
+   "id": 305,
+   "word": "그대로",
+   "definition": "Like that"
+ },
+ {
+   "id": 306,
+   "word": "영화",
+   "definition": "A movie"
+ },
+ {
+   "id": 307,
+   "word": "필요",
+   "definition": "Need, requirement,necessity"
+ },
+ {
+   "id": 308,
+   "word": "줄",
+   "definition": "way,method"
+ },
+ {
+   "id": 309,
+   "word": "하늘",
+   "definition": "The sky"
+ },
+ {
+   "id": 310,
+   "word": "년대",
+   "definition": "Year"
+ },
+ {
+   "id": 311,
+   "word": "과학",
+   "definition": "Science"
+ },
+ {
+   "id": 312,
+   "word": "자연",
+   "definition": "Nature"
+ },
+ {
+   "id": 313,
+   "word": "정말",
+   "definition": "Really"
+ },
+ {
+   "id": 314,
+   "word": "구조",
+   "definition": "Construction or  structure"
+ },
+ {
+   "id": 315,
+   "word": "결국",
+   "definition": "After all or  in the end"
+ },
+ {
+   "id": 316,
+   "word": "밥",
+   "definition": "Rice, a meal"
+ },
+ {
+   "id": 317,
+   "word": "입다",
+   "definition": "To wear"
+ },
+ {
+   "id": 318,
+   "word": "오히려",
+   "definition": "Rather,preferably"
+ },
+ {
+   "id": 319,
+   "word": "프로그램",
+   "definition": "Program"
+ },
+ {
+   "id": 320,
+   "word": "네",
+   "definition": "Yes"
+ },
+ {
+   "id": 321,
+   "word": "이루어지다",
+   "definition": "Get accomplished, achieved"
+ },
+ {
+   "id": 322,
+   "word": "남",
+   "definition": "Others, other people"
+ },
+ {
+   "id": 323,
+   "word": "하루",
+   "definition": "A day"
+ },
+ {
+   "id": 324,
+   "word": "그림",
+   "definition": "A picture"
+ },
+ {
+   "id": 325,
+   "word": "적",
+   "definition": "The time,the occasion,when"
+ },
+ {
+   "id": 326,
+   "word": "터",
+   "definition": "one’s status, one’s lot"
+ },
+ {
+   "id": 327,
+   "word": "마시다",
+   "definition": "To drink"
+ },
+ {
+   "id": 328,
+   "word": "치다",
+   "definition": "to attack, assault"
+ },
+ {
+   "id": 329,
+   "word": "혼자",
+   "definition": "Alone"
+ },
+ {
+   "id": 330,
+   "word": "나가다",
+   "definition": "To advance, proceed, go forward"
+ },
+ {
+   "id": 331,
+   "word": "이제",
+   "definition": "Now"
+ },
+ {
+   "id": 332,
+   "word": "교수",
+   "definition": "Teaching or  instruction"
+ },
+ {
+   "id": 333,
+   "word": "술",
+   "definition": "Alcohol"
+ },
+ {
+   "id": 334,
+   "word": "사랑",
+   "definition": "Love"
+ },
+ {
+   "id": 335,
+   "word": "전화",
+   "definition": "Telephone"
+ },
+ {
+   "id": 336,
+   "word": "끝나다",
+   "definition": "To draw to a close or  to end"
+ },
+ {
+   "id": 337,
+   "word": "맞다",
+   "definition": "Be right, correct; to match, be fitting for"
+ },
+ {
+   "id": 338,
+   "word": "아빠",
+   "definition": "Dad"
+ },
+ {
+   "id": 339,
+   "word": "걸리다",
+   "definition": "To be hung up or  suspended"
+ },
+ {
+   "id": 340,
+   "word": "지키다",
+   "definition": "Protect, maintain"
+ },
+ {
+   "id": 341,
+   "word": "한번",
+   "definition": "Once"
+ },
+ {
+   "id": 342,
+   "word": "커피",
+   "definition": "Coffee"
+ },
+ {
+   "id": 343,
+   "word": "가슴",
+   "definition": "Chest"
+ },
+ {
+   "id": 344,
+   "word": "길다",
+   "definition": "To be long"
+ },
+ {
+   "id": 345,
+   "word": "바라보다",
+   "definition": "Look at, watch ; to look forward to, hope for"
+ },
+ {
+   "id": 346,
+   "word": "알아보다",
+   "definition": "To investigate, examine, search"
+ },
+ {
+   "id": 347,
+   "word": "맛",
+   "definition": "Flavor"
+ },
+ {
+   "id": 348,
+   "word": "대부분",
+   "definition": "Most"
+ },
+ {
+   "id": 349,
+   "word": "산업",
+   "definition": "Industry"
+ },
+ {
+   "id": 350,
+   "word": "매우",
+   "definition": "Very"
+ },
+ {
+   "id": 351,
+   "word": "오르다",
+   "definition": "Go up, climb, ascend"
+ },
+ {
+   "id": 352,
+   "word": "음식",
+   "definition": "Food"
+ },
+ {
+   "id": 353,
+   "word": "표정",
+   "definition": "Facial expression, look"
+ },
+ {
+   "id": 354,
+   "word": "꼭",
+   "definition": "For sure"
+ },
+ {
+   "id": 355,
+   "word": "일부",
+   "definition": "A part, a portion"
+ },
+ {
+   "id": 356,
+   "word": "요즘",
+   "definition": "Recently, nowadays"
+ },
+ {
+   "id": 357,
+   "word": "계획",
+   "definition": "A plan or  a project"
+ },
+ {
+   "id": 358,
+   "word": "느낌",
+   "definition": "Touch, feel"
+ },
+ {
+   "id": 359,
+   "word": "얼마",
+   "definition": "How many, how much"
+ },
+ {
+   "id": 360,
+   "word": "고개",
+   "definition": "The nape of the neck"
+ },
+ {
+   "id": 361,
+   "word": "성격",
+   "definition": "Personality ; character, nature"
+ },
+ {
+   "id": 362,
+   "word": "계속",
+   "definition": "Continuously"
+ },
+ {
+   "id": 363,
+   "word": "세기",
+   "definition": "Century"
+ },
+ {
+   "id": 364,
+   "word": "세우다",
+   "definition": "Stand up, erect"
+ },
+ {
+   "id": 365,
+   "word": "아내",
+   "definition": "Wife"
+ },
+ {
+   "id": 366,
+   "word": "가족",
+   "definition": "Family"
+ },
+ {
+   "id": 367,
+   "word": "현재",
+   "definition": "The present time, now, at present"
+ },
+ {
+   "id": 368,
+   "word": "세",
+   "definition": "Three"
+ },
+ {
+   "id": 369,
+   "word": "발전",
+   "definition": "Development"
+ },
+ {
+   "id": 370,
+   "word": "차",
+   "definition": "A vehicle, train/auto car"
+ },
+ {
+   "id": 371,
+   "word": "놀다",
+   "definition": "Play, amuse oneself"
+ },
+ {
+   "id": 372,
+   "word": "향하다",
+   "definition": "To face, look out on"
+ },
+ {
+   "id": 373,
+   "word": "관련",
+   "definition": "Relation or  connection or  reference"
+ },
+ {
+   "id": 374,
+   "word": "형태",
+   "definition": "Form, shape"
+ },
+ {
+   "id": 375,
+   "word": "각",
+   "definition": "Each or  every"
+ },
+ {
+   "id": 376,
+   "word": "도시",
+   "definition": "City"
+ },
+ {
+   "id": 377,
+   "word": "작업",
+   "definition": "Work"
+ },
+ {
+   "id": 378,
+   "word": "분위기",
+   "definition": "atmosphere,surroundings"
+ },
+ {
+   "id": 379,
+   "word": "그러하다",
+   "definition": "To be so or  right"
+ },
+ {
+   "id": 380,
+   "word": "나이",
+   "definition": "Age"
+ },
+ {
+   "id": 381,
+   "word": "우선",
+   "definition": "First of all, before everything"
+ },
+ {
+   "id": 382,
+   "word": "믿다",
+   "definition": "Believe"
+ },
+ {
+   "id": 383,
+   "word": "바꾸다",
+   "definition": "change,exchange"
+ },
+ {
+   "id": 384,
+   "word": "낳다",
+   "definition": "To give birth"
+ },
+ {
+   "id": 385,
+   "word": "바",
+   "definition": "A thing, what"
+ },
+ {
+   "id": 386,
+   "word": "정보",
+   "definition": "information,intelligence"
+ },
+ {
+   "id": 387,
+   "word": "열리다",
+   "definition": "Open, be opened, be unlocked"
+ },
+ {
+   "id": 388,
+   "word": "좋아하다",
+   "definition": "To like, be fond of"
+ },
+ {
+   "id": 389,
+   "word": "그리다",
+   "definition": "Picture or  draw a picture"
+ },
+ {
+   "id": 390,
+   "word": "만큼",
+   "definition": "Of that amount"
+ },
+ {
+   "id": 391,
+   "word": "배우다",
+   "definition": "To learn"
+ },
+ {
+   "id": 392,
+   "word": "시",
+   "definition": "Poetry, lines of verse"
+ },
+ {
+   "id": 393,
+   "word": "역할",
+   "definition": "A part, a role"
+ },
+ {
+   "id": 394,
+   "word": "옆",
+   "definition": "Next to"
+ },
+ {
+   "id": 395,
+   "word": "행동",
+   "definition": "Action, behavior"
+ },
+ {
+   "id": 396,
+   "word": "어",
+   "definition": "Oh, well, why"
+ },
+ {
+   "id": 397,
+   "word": "국내",
+   "definition": "Inside the country"
+ },
+ {
+   "id": 398,
+   "word": "비하다",
+   "definition": "Compare to"
+ },
+ {
+   "id": 399,
+   "word": "기관",
+   "definition": "An engine or  a machine"
+ },
+ {
+   "id": 400,
+   "word": "입장",
+   "definition": "A position, situation"
+ },
+ {
+   "id": 401,
+   "word": "만하다",
+   "definition": "Be of the extent of"
+ },
+ {
+   "id": 402,
+   "word": "예",
+   "definition": "Example"
+ },
+ {
+   "id": 403,
+   "word": "아래",
+   "definition": "The bottom, the lower part"
+ },
+ {
+   "id": 404,
+   "word": "방식",
+   "definition": "A form, method, process"
+ },
+ {
+   "id": 405,
+   "word": "영향",
+   "definition": "Influence, consequences"
+ },
+ {
+   "id": 406,
+   "word": "그럼",
+   "definition": "Certainly or  of course."
+ },
+ {
+   "id": 407,
+   "word": "나서다",
+   "definition": "Come out, come forth"
+ },
+ {
+   "id": 408,
+   "word": "흐르다",
+   "definition": "Flow, stream"
+ },
+ {
+   "id": 409,
+   "word": "저",
+   "definition": "Uh, well,  …"
+ },
+ {
+   "id": 410,
+   "word": "깊다",
+   "definition": "Deep"
+ },
+ {
+   "id": 411,
+   "word": "배",
+   "definition": "A boat (boating)"
+ },
+ {
+   "id": 412,
+   "word": "내",
+   "definition": "Inside"
+ },
+ {
+   "id": 413,
+   "word": "모양",
+   "definition": "A shape, form"
+ },
+ {
+   "id": 414,
+   "word": "산",
+   "definition": "A mountain"
+ },
+ {
+   "id": 415,
+   "word": "새",
+   "definition": "New"
+ },
+ {
+   "id": 416,
+   "word": "하지만",
+   "definition": "But, nevertheless"
+ },
+ {
+   "id": 417,
+   "word": "조건",
+   "definition": "condition,stipulation"
+ },
+ {
+   "id": 418,
+   "word": "문",
+   "definition": "Door"
+ },
+ {
+   "id": 419,
+   "word": "꽃",
+   "definition": "Flower"
+ },
+ {
+   "id": 420,
+   "word": "단계",
+   "definition": "A step, phase"
+ },
+ {
+   "id": 421,
+   "word": "올리다",
+   "definition": "Raise, lift up"
+ },
+ {
+   "id": 422,
+   "word": "그동안",
+   "definition": "During that time"
+ },
+ {
+   "id": 423,
+   "word": "교사",
+   "definition": "Instructor"
+ },
+ {
+   "id": 424,
+   "word": "갑자기",
+   "definition": "Suddenly"
+ },
+ {
+   "id": 425,
+   "word": "넘다",
+   "definition": "Cross or go across"
+ },
+ {
+   "id": 426,
+   "word": "지니다",
+   "definition": "Carry with, hold, possess"
+ },
+ {
+   "id": 427,
+   "word": "바람",
+   "definition": "Wind"
+ },
+ {
+   "id": 428,
+   "word": "잘하다",
+   "definition": "To do well"
+ },
+ {
+   "id": 429,
+   "word": "마을",
+   "definition": "Town"
+ },
+ {
+   "id": 430,
+   "word": "어리다",
+   "definition": "To be very young, juvenile"
+ },
+ {
+   "id": 431,
+   "word": "대표",
+   "definition": "Representative"
+ },
+ {
+   "id": 432,
+   "word": "가능성",
+   "definition": "Possibility"
+ },
+ {
+   "id": 433,
+   "word": "방향",
+   "definition": "Direction"
+ },
+ {
+   "id": 434,
+   "word": "대회",
+   "definition": "A great meeting"
+ },
+ {
+   "id": 435,
+   "word": "목소리",
+   "definition": "Voice"
+ },
+ {
+   "id": 436,
+   "word": "노래",
+   "definition": "Song"
+ },
+ {
+   "id": 437,
+   "word": "바다",
+   "definition": "Sea"
+ },
+ {
+   "id": 438,
+   "word": "힘들다",
+   "definition": "To be hard, difficult"
+ },
+ {
+   "id": 439,
+   "word": "공부",
+   "definition": "Study"
+ },
+ {
+   "id": 440,
+   "word": "움직이다",
+   "definition": "To move, stir"
+ },
+ {
+   "id": 441,
+   "word": "의원",
+   "definition": "A member"
+ },
+ {
+   "id": 442,
+   "word": "노력",
+   "definition": "Effort"
+ },
+ {
+   "id": 443,
+   "word": "전혀",
+   "definition": "entirely,utterly,completely"
+ },
+ {
+   "id": 444,
+   "word": "언니",
+   "definition": "Older sister"
+ },
+ {
+   "id": 445,
+   "word": "단체",
+   "definition": "A corps, a group"
+ },
+ {
+   "id": 446,
+   "word": "분",
+   "definition": "One part"
+ },
+ {
+   "id": 447,
+   "word": "알려지다",
+   "definition": "To become known"
+ },
+ {
+   "id": 448,
+   "word": "가능하다",
+   "definition": "To be possible"
+ },
+ {
+   "id": 449,
+   "word": "능력",
+   "definition": "Ability, capability, how much and how well"
+ },
+ {
+   "id": 450,
+   "word": "주장하다",
+   "definition": "To assert,maintain"
+ },
+ {
+   "id": 451,
+   "word": "자식",
+   "definition": "one’s children"
+ },
+ {
+   "id": 452,
+   "word": "불",
+   "definition": "Fire"
+ },
+ {
+   "id": 453,
+   "word": "주민",
+   "definition": "inhabitants,dwellers"
+ },
+ {
+   "id": 454,
+   "word": "모으다",
+   "definition": "gather,get together"
+ },
+ {
+   "id": 455,
+   "word": "자료",
+   "definition": "materials,data"
+ },
+ {
+   "id": 456,
+   "word": "존재",
+   "definition": "Existence"
+ },
+ {
+   "id": 457,
+   "word": "학년",
+   "definition": "A school year"
+ },
+ {
+   "id": 458,
+   "word": "신문",
+   "definition": "A newspaper"
+ },
+ {
+   "id": 459,
+   "word": "가지다",
+   "definition": "Entertain or  hold or  have"
+ },
+ {
+   "id": 460,
+   "word": "이해하다",
+   "definition": "To understand"
+ },
+ {
+   "id": 461,
+   "word": "제품",
+   "definition": "Manufactured goods"
+ },
+ {
+   "id": 462,
+   "word": "분야",
+   "definition": "Field"
+ },
+ {
+   "id": 463,
+   "word": "선생",
+   "definition": "Teacher"
+ },
+ {
+   "id": 464,
+   "word": "사업",
+   "definition": "Business"
+ },
+ {
+   "id": 465,
+   "word": "행위",
+   "definition": "An act, deed, behavior"
+ },
+ {
+   "id": 466,
+   "word": "수준",
+   "definition": "Level"
+ },
+ {
+   "id": 467,
+   "word": "지난해",
+   "definition": "Last year"
+ },
+ {
+   "id": 468,
+   "word": "표현",
+   "definition": "Verbal expression, representation, manifestation"
+ },
+ {
+   "id": 469,
+   "word": "기분",
+   "definition": "Mood"
+ },
+ {
+   "id": 470,
+   "word": "대",
+   "definition": "Era, period"
+ },
+ {
+   "id": 471,
+   "word": "젊다",
+   "definition": "To be young,youthful"
+ },
+ {
+   "id": 472,
+   "word": "옷",
+   "definition": "Clothes"
+ },
+ {
+   "id": 473,
+   "word": "기능",
+   "definition": "Function or  functionality"
+ },
+ {
+   "id": 474,
+   "word": "순간",
+   "definition": "A moment,a second"
+ },
+ {
+   "id": 475,
+   "word": "전쟁",
+   "definition": "War"
+ },
+ {
+   "id": 476,
+   "word": "전",
+   "definition": "Before"
+ },
+ {
+   "id": 477,
+   "word": "꿈",
+   "definition": "A Dream"
+ },
+ {
+   "id": 478,
+   "word": "할머니",
+   "definition": "Grandmother"
+ },
+ {
+   "id": 479,
+   "word": "회의",
+   "definition": "A meeting, a conference"
+ },
+ {
+   "id": 480,
+   "word": "방송",
+   "definition": "Broadcast"
+ },
+ {
+   "id": 481,
+   "word": "이야기하다",
+   "definition": "To talk"
+ },
+ {
+   "id": 482,
+   "word": "나무",
+   "definition": "Tree"
+ },
+ {
+   "id": 483,
+   "word": "자다",
+   "definition": "To sleep"
+ },
+ {
+   "id": 484,
+   "word": "연극",
+   "definition": "drama,a play"
+ },
+ {
+   "id": 485,
+   "word": "마찬가지",
+   "definition": "The same"
+ },
+ {
+   "id": 486,
+   "word": "걷다",
+   "definition": "To walk"
+ },
+ {
+   "id": 487,
+   "word": "노동",
+   "definition": "Labor, work"
+ },
+ {
+   "id": 488,
+   "word": "이때",
+   "definition": "At this time, moment"
+ },
+ {
+   "id": 489,
+   "word": "과거",
+   "definition": "The past"
+ },
+ {
+   "id": 490,
+   "word": "가치",
+   "definition": "Price"
+ },
+ {
+   "id": 491,
+   "word": "시간",
+   "definition": "a Length of time (한시간 동안)"
+ },
+ {
+   "id": 492,
+   "word": "집단",
+   "definition": "A group, a collective body"
+ },
+ {
+   "id": 493,
+   "word": "현대",
+   "definition": "The present age, times"
+ },
+ {
+   "id": 494,
+   "word": "살펴보다",
+   "definition": "Watch closely"
+ },
+ {
+   "id": 495,
+   "word": "장관",
+   "definition": "A government cabinet minister"
+ },
+ {
+   "id": 496,
+   "word": "차이",
+   "definition": "difference,disparity"
+ },
+ {
+   "id": 497,
+   "word": "풀다",
+   "definition": "Untie, loosen ; to melt into"
+ },
+ {
+   "id": 498,
+   "word": "시절",
+   "definition": "season,time,occasion"
+ },
+ {
+   "id": 499,
+   "word": "물건",
+   "definition": "A thing"
+ },
+ {
+   "id": 500,
+   "word": "직접",
+   "definition": "Directly"
+ },
+ {
+   "id": 501,
+   "word": "개인",
+   "definition": "Private or  individual"
+ },
+ {
+   "id": 502,
+   "word": "근데",
+   "definition": "But or  however"
+ },
+ {
+   "id": 503,
+   "word": "발",
+   "definition": "Foot"
+ },
+ {
+   "id": 504,
+   "word": "작가",
+   "definition": "writer,author"
+ },
+ {
+   "id": 505,
+   "word": "효과",
+   "definition": "Effect, effectiveness"
+ },
+ {
+   "id": 506,
+   "word": "불교",
+   "definition": "Buddhism"
+ },
+ {
+   "id": 507,
+   "word": "끌다",
+   "definition": "Pull"
+ },
+ {
+   "id": 508,
+   "word": "대로",
+   "definition": "Like, according to"
+ },
+ {
+   "id": 509,
+   "word": "빨리",
+   "definition": "Quickly"
+ },
+ {
+   "id": 510,
+   "word": "시작되다",
+   "definition": "To begin,start"
+ },
+ {
+   "id": 511,
+   "word": "말다",
+   "definition": "Cease"
+ },
+ {
+   "id": 512,
+   "word": "설명하다",
+   "definition": "To explain"
+ },
+ {
+   "id": 513,
+   "word": "우주",
+   "definition": "The universe"
+ },
+ {
+   "id": 514,
+   "word": "시기",
+   "definition": "An opportunity,chance"
+ },
+ {
+   "id": 515,
+   "word": "마치",
+   "definition": "As though, as if"
+ },
+ {
+   "id": 516,
+   "word": "살",
+   "definition": "Years old"
+ },
+ {
+   "id": 517,
+   "word": "생산",
+   "definition": "1) production 2)birth"
+ },
+ {
+   "id": 518,
+   "word": "바라다",
+   "definition": "Wish, hope"
+ },
+ {
+   "id": 519,
+   "word": "강하다",
+   "definition": "To be strong or  powerful"
+ },
+ {
+   "id": 520,
+   "word": "경험",
+   "definition": "Experience or  undergo or  suffer"
+ },
+ {
+   "id": 521,
+   "word": "음악",
+   "definition": "Music"
+ },
+ {
+   "id": 522,
+   "word": "최고",
+   "definition": "The best"
+ },
+ {
+   "id": 523,
+   "word": "나타내다",
+   "definition": "Show, display"
+ },
+ {
+   "id": 524,
+   "word": "아프다",
+   "definition": "To hurt"
+ },
+ {
+   "id": 525,
+   "word": "적다",
+   "definition": "To be small, few in number"
+ },
+ {
+   "id": 526,
+   "word": "비",
+   "definition": "Rain"
+ },
+ {
+   "id": 527,
+   "word": "고향",
+   "definition": "Hometown"
+ },
+ {
+   "id": 528,
+   "word": "놀라다",
+   "definition": "Be surprised"
+ },
+ {
+   "id": 529,
+   "word": "다양하다",
+   "definition": "To be various, diverse"
+ },
+ {
+   "id": 530,
+   "word": "울다",
+   "definition": "To cry, weep"
+ },
+ {
+   "id": 531,
+   "word": "농민",
+   "definition": "A farmer"
+ },
+ {
+   "id": 532,
+   "word": "은행",
+   "definition": "A bank"
+ },
+ {
+   "id": 533,
+   "word": "지내다",
+   "definition": "To pass, spend time"
+ },
+ {
+   "id": 534,
+   "word": "결혼",
+   "definition": "Marriage"
+ },
+ {
+   "id": 535,
+   "word": "법",
+   "definition": "A law, the law"
+ },
+ {
+   "id": 536,
+   "word": "소설",
+   "definition": "A novel, fiction story"
+ },
+ {
+   "id": 537,
+   "word": "예",
+   "definition": "Yes, certainly, right"
+ },
+ {
+   "id": 538,
+   "word": "오후",
+   "definition": "The afternoon"
+ },
+ {
+   "id": 539,
+   "word": "질서",
+   "definition": "Order, system"
+ },
+ {
+   "id": 540,
+   "word": "담다",
+   "definition": "Put in a bottle"
+ },
+ {
+   "id": 541,
+   "word": "모이다",
+   "definition": "Meet, assemble"
+ },
+ {
+   "id": 542,
+   "word": "시민",
+   "definition": "Residents of a city"
+ },
+ {
+   "id": 543,
+   "word": "회장",
+   "definition": "Chariman, the president"
+ },
+ {
+   "id": 544,
+   "word": "빠르다",
+   "definition": "Be fast, quick"
+ },
+ {
+   "id": 545,
+   "word": "스스로",
+   "definition": "On its own, of its own free will"
+ },
+ {
+   "id": 546,
+   "word": "아기",
+   "definition": "baby,infant"
+ },
+ {
+   "id": 547,
+   "word": "아저씨",
+   "definition": "Sir, calling an unknown male"
+ },
+ {
+   "id": 548,
+   "word": "옛날",
+   "definition": "Ancient times, antiquity"
+ },
+ {
+   "id": 549,
+   "word": "이날",
+   "definition": "Today, this day"
+ },
+ {
+   "id": 550,
+   "word": "제대로",
+   "definition": "As properly is suitable"
+ },
+ {
+   "id": 551,
+   "word": "달",
+   "definition": "The moon"
+ },
+ {
+   "id": 552,
+   "word": "던지다",
+   "definition": "To throw"
+ },
+ {
+   "id": 553,
+   "word": "참",
+   "definition": "really,truly"
+ },
+ {
+   "id": 554,
+   "word": "공간",
+   "definition": "Space or  room"
+ },
+ {
+   "id": 555,
+   "word": "이곳",
+   "definition": "This place, here"
+ },
+ {
+   "id": 556,
+   "word": "마지막",
+   "definition": "Last, final"
+ },
+ {
+   "id": 557,
+   "word": "벌이다",
+   "definition": "(1) to plan to start a job/project (2) to play a table game"
+ },
+ {
+   "id": 558,
+   "word": "병원",
+   "definition": "Hospital"
+ },
+ {
+   "id": 559,
+   "word": "자세",
+   "definition": "Position, posture"
+ },
+ {
+   "id": 560,
+   "word": "강조하다",
+   "definition": "Place empasis upon"
+ },
+ {
+   "id": 561,
+   "word": "경찰",
+   "definition": "The police"
+ },
+ {
+   "id": 562,
+   "word": "맡다",
+   "definition": "Take charge of"
+ },
+ {
+   "id": 563,
+   "word": "저녁",
+   "definition": "Evening"
+ },
+ {
+   "id": 564,
+   "word": "한편",
+   "definition": "One side, one way"
+ },
+ {
+   "id": 565,
+   "word": "그러면",
+   "definition": "If so or  if that is the case"
+ },
+ {
+   "id": 566,
+   "word": "기자",
+   "definition": "A journalist"
+ },
+ {
+   "id": 567,
+   "word": "넓다",
+   "definition": "Broad"
+ },
+ {
+   "id": 568,
+   "word": "시험",
+   "definition": "A test"
+ },
+ {
+   "id": 569,
+   "word": "잠",
+   "definition": "Sleep"
+ },
+ {
+   "id": 570,
+   "word": "주로",
+   "definition": "principally,mainly"
+ },
+ {
+   "id": 571,
+   "word": "훨씬",
+   "definition": "By far, very much so"
+ },
+ {
+   "id": 572,
+   "word": "면",
+   "definition": "Side"
+ },
+ {
+   "id": 573,
+   "word": "통일",
+   "definition": "Unification"
+ },
+ {
+   "id": 574,
+   "word": "건강",
+   "definition": "Health"
+ },
+ {
+   "id": 575,
+   "word": "가깝다",
+   "definition": "Close"
+ },
+ {
+   "id": 576,
+   "word": "건물",
+   "definition": "Building"
+ },
+ {
+   "id": 577,
+   "word": "시설",
+   "definition": "establishment,institution"
+ },
+ {
+   "id": 578,
+   "word": "외국",
+   "definition": "A foreign country"
+ },
+ {
+   "id": 579,
+   "word": "밑",
+   "definition": "The bottom"
+ },
+ {
+   "id": 580,
+   "word": "어른",
+   "definition": "A man, an adult"
+ },
+ {
+   "id": 581,
+   "word": "주변",
+   "definition": "A circumference"
+ },
+ {
+   "id": 582,
+   "word": "대신",
+   "definition": "Instead of"
+ },
+ {
+   "id": 583,
+   "word": "원인",
+   "definition": "A cause,a factor"
+ },
+ {
+   "id": 584,
+   "word": "팔다",
+   "definition": "To sell"
+ },
+ {
+   "id": 585,
+   "word": "차례",
+   "definition": "(1) order,precedence  (2) one time, one round"
+ },
+ {
+   "id": 586,
+   "word": "군",
+   "definition": "An army"
+ },
+ {
+   "id": 587,
+   "word": "열심히",
+   "definition": "Enthusiastically,with zeal"
+ },
+ {
+   "id": 588,
+   "word": "일하다",
+   "definition": "To work, labor"
+ },
+ {
+   "id": 589,
+   "word": "재산",
+   "definition": "property,fortune, assets, possessions"
+ },
+ {
+   "id": 590,
+   "word": "팀",
+   "definition": "Team"
+ },
+ {
+   "id": 591,
+   "word": "부모",
+   "definition": "Parents"
+ },
+ {
+   "id": 592,
+   "word": "약간",
+   "definition": "Somewhat"
+ },
+ {
+   "id": 593,
+   "word": "언어",
+   "definition": "language,speech"
+ },
+ {
+   "id": 594,
+   "word": "요구하다",
+   "definition": "To demand,claim,request"
+ },
+ {
+   "id": 595,
+   "word": "올라가다",
+   "definition": "To go up, ascend"
+ },
+ {
+   "id": 596,
+   "word": "첫",
+   "definition": "First"
+ },
+ {
+   "id": 597,
+   "word": "감독",
+   "definition": "The director"
+ },
+ {
+   "id": 598,
+   "word": "그날",
+   "definition": "That day or  that same day"
+ },
+ {
+   "id": 599,
+   "word": "사실",
+   "definition": "Actually, really"
+ },
+ {
+   "id": 600,
+   "word": "자주",
+   "definition": "Always, constantly"
+ },
+ {
+   "id": 601,
+   "word": "당하다",
+   "definition": "Have, encounter"
+ },
+ {
+   "id": 602,
+   "word": "삼다",
+   "definition": "Make a thing of"
+ },
+ {
+   "id": 603,
+   "word": "약",
+   "definition": "About, approximately"
+ },
+ {
+   "id": 604,
+   "word": "기간",
+   "definition": "A period or  a time or"
+ },
+ {
+   "id": 605,
+   "word": "담배",
+   "definition": "Tobacco"
+ },
+ {
+   "id": 606,
+   "word": "일으키다",
+   "definition": "Riase, get up; start, commence"
+ },
+ {
+   "id": 607,
+   "word": "일단",
+   "definition": "Temporarily"
+ },
+ {
+   "id": 608,
+   "word": "할아버지",
+   "definition": "Grandfather"
+ },
+ {
+   "id": 609,
+   "word": "조직",
+   "definition": "Organization (composition, structure)"
+ },
+ {
+   "id": 610,
+   "word": "태어나다",
+   "definition": "To be born, see the light of day"
+ },
+ {
+   "id": 611,
+   "word": "공장",
+   "definition": "Construction site"
+ },
+ {
+   "id": 612,
+   "word": "벌써",
+   "definition": "Already"
+ },
+ {
+   "id": 613,
+   "word": "즐기다",
+   "definition": "Enjoy oneself,take pleasure,delight"
+ },
+ {
+   "id": 614,
+   "word": "지",
+   "definition": "since,from"
+ },
+ {
+   "id": 615,
+   "word": "환자",
+   "definition": "A patient"
+ },
+ {
+   "id": 616,
+   "word": "변하다",
+   "definition": "Change"
+ },
+ {
+   "id": 617,
+   "word": "사고",
+   "definition": "An accident"
+ },
+ {
+   "id": 618,
+   "word": "그래도",
+   "definition": "All the same"
+ },
+ {
+   "id": 619,
+   "word": "아무리",
+   "definition": "However much"
+ },
+ {
+   "id": 620,
+   "word": "맞추다",
+   "definition": "Adjust, adapt"
+ },
+ {
+   "id": 621,
+   "word": "쌀",
+   "definition": "Uncooked rice"
+ },
+ {
+   "id": 622,
+   "word": "일반",
+   "definition": "universal,common,usual"
+ },
+ {
+   "id": 623,
+   "word": "재미있다",
+   "definition": "interesting,fun"
+ },
+ {
+   "id": 624,
+   "word": "가르치다",
+   "definition": "To teach"
+ },
+ {
+   "id": 625,
+   "word": "대화",
+   "definition": "Conversation"
+ },
+ {
+   "id": 626,
+   "word": "막다",
+   "definition": "Stop, obstruct"
+ },
+ {
+   "id": 627,
+   "word": "올해",
+   "definition": "This year"
+ },
+ {
+   "id": 628,
+   "word": "형",
+   "definition": "An elder brother"
+ },
+ {
+   "id": 629,
+   "word": "달리",
+   "definition": "Differently"
+ },
+ {
+   "id": 630,
+   "word": "버리다",
+   "definition": "Throw away"
+ },
+ {
+   "id": 631,
+   "word": "붙이다",
+   "definition": "affix,put on"
+ },
+ {
+   "id": 632,
+   "word": "인물",
+   "definition": "A man, a person"
+ },
+ {
+   "id": 633,
+   "word": "늘",
+   "definition": "Always"
+ },
+ {
+   "id": 634,
+   "word": "모두",
+   "definition": "everything"
+ },
+ {
+   "id": 635,
+   "word": "전국",
+   "definition": "The whole country"
+ },
+ {
+   "id": 636,
+   "word": "마치다",
+   "definition": "Finish, complete"
+ },
+ {
+   "id": 637,
+   "word": "전",
+   "definition": "all,every"
+ },
+ {
+   "id": 638,
+   "word": "다만",
+   "definition": "Only, merely"
+ },
+ {
+   "id": 639,
+   "word": "도움",
+   "definition": "Help"
+ },
+ {
+   "id": 640,
+   "word": "가정",
+   "definition": "Famly"
+ },
+ {
+   "id": 641,
+   "word": "걸다",
+   "definition": "Hang up or  suspend"
+ },
+ {
+   "id": 642,
+   "word": "빠지다",
+   "definition": "To fall into"
+ },
+ {
+   "id": 643,
+   "word": "멀다",
+   "definition": "To be far"
+ },
+ {
+   "id": 644,
+   "word": "버스",
+   "definition": "Bus"
+ },
+ {
+   "id": 645,
+   "word": "오늘날",
+   "definition": "These days, nowadays"
+ },
+ {
+   "id": 646,
+   "word": "잠시",
+   "definition": "For a little while"
+ },
+ {
+   "id": 647,
+   "word": "농업",
+   "definition": "Agriculture"
+ },
+ {
+   "id": 648,
+   "word": "대다",
+   "definition": "Put, place up to"
+ },
+ {
+   "id": 649,
+   "word": "식",
+   "definition": "form,style"
+ },
+ {
+   "id": 650,
+   "word": "의견",
+   "definition": "An opinion,a suggestion"
+ },
+ {
+   "id": 651,
+   "word": "무대",
+   "definition": "Stage"
+ },
+ {
+   "id": 652,
+   "word": "사진",
+   "definition": "Picture"
+ },
+ {
+   "id": 653,
+   "word": "주장",
+   "definition": "assertion,insistance"
+ },
+ {
+   "id": 654,
+   "word": "표현하다",
+   "definition": "To express, make known by saying"
+ },
+ {
+   "id": 655,
+   "word": "인하다",
+   "definition": "To be due to, caused by"
+ },
+ {
+   "id": 656,
+   "word": "이상하다",
+   "definition": "To be strange,queer"
+ },
+ {
+   "id": 657,
+   "word": "제일",
+   "definition": "The first"
+ },
+ {
+   "id": 658,
+   "word": "붙다",
+   "definition": "Stick, adhere to"
+ },
+ {
+   "id": 659,
+   "word": "아마",
+   "definition": "Probably"
+ },
+ {
+   "id": 660,
+   "word": "얘기하다",
+   "definition": "To tell a story"
+ },
+ {
+   "id": 661,
+   "word": "잇다",
+   "definition": "Join, connect"
+ },
+ {
+   "id": 662,
+   "word": "조금",
+   "definition": "A little"
+ },
+ {
+   "id": 663,
+   "word": "경기",
+   "definition": "Race or  match or  contest"
+ },
+ {
+   "id": 664,
+   "word": "목적",
+   "definition": "goal,purpose"
+ },
+ {
+   "id": 665,
+   "word": "태도",
+   "definition": "attitude,comportment"
+ },
+ {
+   "id": 666,
+   "word": "남성",
+   "definition": "Male"
+ },
+ {
+   "id": 667,
+   "word": "주위",
+   "definition": "The circumference,the girth"
+ },
+ {
+   "id": 668,
+   "word": "대책",
+   "definition": "Countermeasure"
+ },
+ {
+   "id": 669,
+   "word": "그만",
+   "definition": "That much or  a little amount"
+ },
+ {
+   "id": 670,
+   "word": "발생하다",
+   "definition": "Originate, come from"
+ },
+ {
+   "id": 671,
+   "word": "다리",
+   "definition": "Leg"
+ },
+ {
+   "id": 672,
+   "word": "아무",
+   "definition": "anybody,everybody"
+ },
+ {
+   "id": 673,
+   "word": "어쩌다",
+   "definition": "By chance, accident"
+ },
+ {
+   "id": 674,
+   "word": "재료",
+   "definition": "stuff,material"
+ },
+ {
+   "id": 675,
+   "word": "각각",
+   "definition": "Each and every"
+ },
+ {
+   "id": 676,
+   "word": "결코",
+   "definition": "Never or  by no means"
+ },
+ {
+   "id": 677,
+   "word": "옮기다",
+   "definition": "Move, transfer (2)(sickness) communicate, transfer to"
+ },
+ {
+   "id": 678,
+   "word": "항상",
+   "definition": "Always"
+ },
+ {
+   "id": 679,
+   "word": "해",
+   "definition": "A year"
+ },
+ {
+   "id": 680,
+   "word": "잃다",
+   "definition": "To lose, to miss, to be deprived"
+ },
+ {
+   "id": 681,
+   "word": "자유",
+   "definition": "Freedom"
+ },
+ {
+   "id": 682,
+   "word": "책임",
+   "definition": "Responsibility"
+ },
+ {
+   "id": 683,
+   "word": "바뀌다",
+   "definition": "Be changed"
+ },
+ {
+   "id": 684,
+   "word": "비슷하다",
+   "definition": "To resemble"
+ },
+ {
+   "id": 685,
+   "word": "심하다",
+   "definition": "To be extreme,intense"
+ },
+ {
+   "id": 686,
+   "word": "경쟁",
+   "definition": "Competition or  rivalry"
+ },
+ {
+   "id": 687,
+   "word": "사랑하다",
+   "definition": "To love"
+ },
+ {
+   "id": 688,
+   "word": "아니",
+   "definition": "No!"
+ },
+ {
+   "id": 689,
+   "word": "여름",
+   "definition": "summer,summertime"
+ },
+ {
+   "id": 690,
+   "word": "자라다",
+   "definition": "To grow up"
+ },
+ {
+   "id": 691,
+   "word": "회",
+   "definition": "A time, an inning, a round in a game"
+ },
+ {
+   "id": 692,
+   "word": "구체적",
+   "definition": "Concretely"
+ },
+ {
+   "id": 693,
+   "word": "기회",
+   "definition": "An opportunity"
+ },
+ {
+   "id": 694,
+   "word": "실시하다",
+   "definition": "To enforce,put into effect"
+ },
+ {
+   "id": 695,
+   "word": "지구",
+   "definition": "The earth"
+ },
+ {
+   "id": 696,
+   "word": "번째",
+   "definition": "How many times"
+ },
+ {
+   "id": 697,
+   "word": "소비자",
+   "definition": "A consumer"
+ },
+ {
+   "id": 698,
+   "word": "싫다",
+   "definition": "To not like, to hate"
+ },
+ {
+   "id": 699,
+   "word": "규모",
+   "definition": "Scale or  scope or  structure"
+ },
+ {
+   "id": 700,
+   "word": "기준",
+   "definition": "A standard or basis"
+ },
+ {
+   "id": 701,
+   "word": "말",
+   "definition": "End"
+ },
+ {
+   "id": 702,
+   "word": "반드시",
+   "definition": "Most certainly"
+ },
+ {
+   "id": 703,
+   "word": "셈",
+   "definition": "An intention,design,purpose"
+ },
+ {
+   "id": 704,
+   "word": "갖추다",
+   "definition": "Make or  get ready or  prepare"
+ },
+ {
+   "id": 705,
+   "word": "그러니까",
+   "definition": "And so it is that"
+ },
+ {
+   "id": 706,
+   "word": "받아들이다",
+   "definition": "Accept"
+ },
+ {
+   "id": 707,
+   "word": "값",
+   "definition": "Price"
+ },
+ {
+   "id": 708,
+   "word": "현장",
+   "definition": "on site, on location, at the site in question"
+ },
+ {
+   "id": 709,
+   "word": "건설",
+   "definition": "Construction"
+ },
+ {
+   "id": 710,
+   "word": "꺼내다",
+   "definition": "To get out or  draw out"
+ },
+ {
+   "id": 711,
+   "word": "노동자",
+   "definition": "Laborer, worker"
+ },
+ {
+   "id": 712,
+   "word": "언제나",
+   "definition": "everytime,always"
+ },
+ {
+   "id": 713,
+   "word": "완전히",
+   "definition": "completely,perfectly"
+ },
+ {
+   "id": 714,
+   "word": "자동차",
+   "definition": "Car"
+ },
+ {
+   "id": 715,
+   "word": "전하다",
+   "definition": "To transmit,convey"
+ },
+ {
+   "id": 716,
+   "word": "존재하다",
+   "definition": "To exist"
+ },
+ {
+   "id": 717,
+   "word": "개월",
+   "definition": "Each and every month"
+ },
+ {
+   "id": 718,
+   "word": "맞다",
+   "definition": "receive,welcome (note, usually this is 맞히다)"
+ },
+ {
+   "id": 719,
+   "word": "별로",
+   "definition": "Especially, particularly"
+ },
+ {
+   "id": 720,
+   "word": "어린이",
+   "definition": "A youngster, a child"
+ },
+ {
+   "id": 721,
+   "word": "정하다",
+   "definition": "To set,determine"
+ },
+ {
+   "id": 722,
+   "word": "한마디",
+   "definition": "One word"
+ },
+ {
+   "id": 723,
+   "word": "유지하다",
+   "definition": "To preserve, maintain"
+ },
+ {
+   "id": 724,
+   "word": "이데올로기",
+   "definition": "Ideology"
+ },
+ {
+   "id": 725,
+   "word": "공부하다",
+   "definition": "To study"
+ },
+ {
+   "id": 726,
+   "word": "대중",
+   "definition": "The masses"
+ },
+ {
+   "id": 727,
+   "word": "늘어나다",
+   "definition": "Grow longer"
+ },
+ {
+   "id": 728,
+   "word": "닦다",
+   "definition": "Wipe clean, polish"
+ },
+ {
+   "id": 729,
+   "word": "만",
+   "definition": "As many as, full, complete"
+ },
+ {
+   "id": 730,
+   "word": "말씀",
+   "definition": "Speech"
+ },
+ {
+   "id": 731,
+   "word": "괜찮다",
+   "definition": "To be okay"
+ },
+ {
+   "id": 732,
+   "word": "눈물",
+   "definition": "A tear"
+ },
+ {
+   "id": 733,
+   "word": "각종",
+   "definition": "All sorts or  varieties"
+ },
+ {
+   "id": 734,
+   "word": "빛",
+   "definition": "Light"
+ },
+ {
+   "id": 735,
+   "word": "아니",
+   "definition": "Not"
+ },
+ {
+   "id": 736,
+   "word": "피하다",
+   "definition": "avoid,keep away"
+ },
+ {
+   "id": 737,
+   "word": "거치다",
+   "definition": "Pass or  go through"
+ },
+ {
+   "id": 738,
+   "word": "나아가다",
+   "definition": "Advance, go forward"
+ },
+ {
+   "id": 739,
+   "word": "야",
+   "definition": "(Word to get somebody’s attention) Hey!! (2) impolite speech for 이다, to be"
+ },
+ {
+   "id": 740,
+   "word": "지식",
+   "definition": "Knowledge, information"
+ },
+ {
+   "id": 741,
+   "word": "여전히",
+   "definition": "As it used to be, as before ; still, persistently, even still"
+ },
+ {
+   "id": 742,
+   "word": "주인",
+   "definition": "The head of a family,the owner"
+ },
+ {
+   "id": 743,
+   "word": "발견하다",
+   "definition": "To discover"
+ },
+ {
+   "id": 744,
+   "word": "선",
+   "definition": "A line, a route"
+ },
+ {
+   "id": 745,
+   "word": "인류",
+   "definition": "The human race"
+ },
+ {
+   "id": 746,
+   "word": "특징",
+   "definition": "A special feature, a distinguishing feature"
+ },
+ {
+   "id": 747,
+   "word": "선수",
+   "definition": "An athlete"
+ },
+ {
+   "id": 748,
+   "word": "형식",
+   "definition": "A form, formality, mold"
+ },
+ {
+   "id": 749,
+   "word": "마련하다",
+   "definition": "To plan, arrange"
+ },
+ {
+   "id": 750,
+   "word": "반",
+   "definition": "Half"
+ },
+ {
+   "id": 751,
+   "word": "발표하다",
+   "definition": "To announce"
+ },
+ {
+   "id": 752,
+   "word": "주제",
+   "definition": "Subject, theme, topic"
+ },
+ {
+   "id": 753,
+   "word": "걸치다",
+   "definition": "1) put a thing over or across 2) to range from A to B"
+ },
+ {
+   "id": 754,
+   "word": "겪다",
+   "definition": "Experience or  undergo or  suffer"
+ },
+ {
+   "id": 755,
+   "word": "관점",
+   "definition": "A point of view or a standpoint/outlook"
+ },
+ {
+   "id": 756,
+   "word": "귀",
+   "definition": "Ear"
+ },
+ {
+   "id": 757,
+   "word": "기본",
+   "definition": "A foundation"
+ },
+ {
+   "id": 758,
+   "word": "미터",
+   "definition": "Meter"
+ },
+ {
+   "id": 759,
+   "word": "사라지다",
+   "definition": "To disappear"
+ },
+ {
+   "id": 760,
+   "word": "어떠하다",
+   "definition": "To be how"
+ },
+ {
+   "id": 761,
+   "word": "감정",
+   "definition": "Feelings"
+ },
+ {
+   "id": 762,
+   "word": "기억",
+   "definition": "A memory"
+ },
+ {
+   "id": 763,
+   "word": "놈",
+   "definition": "A fellow"
+ },
+ {
+   "id": 764,
+   "word": "인기",
+   "definition": "Popularity"
+ },
+ {
+   "id": 765,
+   "word": "배",
+   "definition": "Abdomen"
+ },
+ {
+   "id": 766,
+   "word": "아파트",
+   "definition": "Apartment"
+ },
+ {
+   "id": 767,
+   "word": "가끔",
+   "definition": "Sometimes"
+ },
+ {
+   "id": 768,
+   "word": "구성",
+   "definition": "Organization or  constitution , the framework of something"
+ },
+ {
+   "id": 769,
+   "word": "술",
+   "definition": "Spoonful"
+ },
+ {
+   "id": 770,
+   "word": "실제로",
+   "definition": "In reality"
+ },
+ {
+   "id": 771,
+   "word": "짧다",
+   "definition": "Short, brief"
+ },
+ {
+   "id": 772,
+   "word": "고맙다",
+   "definition": "To thank"
+ },
+ {
+   "id": 773,
+   "word": "관리",
+   "definition": "Management or  administration"
+ },
+ {
+   "id": 774,
+   "word": "그곳",
+   "definition": "That place"
+ },
+ {
+   "id": 775,
+   "word": "보다",
+   "definition": "More than, greater than …."
+ },
+ {
+   "id": 776,
+   "word": "비롯하다",
+   "definition": "begin,start"
+ },
+ {
+   "id": 777,
+   "word": "과연",
+   "definition": "Just as one thought"
+ },
+ {
+   "id": 778,
+   "word": "달리다",
+   "definition": "run, make do fast"
+ },
+ {
+   "id": 779,
+   "word": "바쁘다",
+   "definition": "Busy"
+ },
+ {
+   "id": 780,
+   "word": "이전",
+   "definition": "Former days/times"
+ },
+ {
+   "id": 781,
+   "word": "인정하다",
+   "definition": "To acknowledge,authorize"
+ },
+ {
+   "id": 782,
+   "word": "자",
+   "definition": "A person"
+ },
+ {
+   "id": 783,
+   "word": "중앙",
+   "definition": "The middle and the heart"
+ },
+ {
+   "id": 784,
+   "word": "나쁘다",
+   "definition": "To be bad"
+ },
+ {
+   "id": 785,
+   "word": "불구하다",
+   "definition": "Deformity, malformation"
+ },
+ {
+   "id": 786,
+   "word": "시키다",
+   "definition": "To make"
+ },
+ {
+   "id": 787,
+   "word": "게임",
+   "definition": "Game"
+ },
+ {
+   "id": 788,
+   "word": "국제",
+   "definition": "International"
+ },
+ {
+   "id": 789,
+   "word": "그룹",
+   "definition": "Group"
+ },
+ {
+   "id": 790,
+   "word": "인생",
+   "definition": "Life"
+ },
+ {
+   "id": 791,
+   "word": "전통",
+   "definition": "tradition,convention"
+ },
+ {
+   "id": 792,
+   "word": "기르다",
+   "definition": "Educate or  train or  cultivate"
+ },
+ {
+   "id": 793,
+   "word": "잔",
+   "definition": "A cup, wine glass"
+ },
+ {
+   "id": 794,
+   "word": "조사하다",
+   "definition": "To examine,investigate"
+ },
+ {
+   "id": 795,
+   "word": "커다랗다",
+   "definition": "To be very big/large"
+ },
+ {
+   "id": 796,
+   "word": "있다",
+   "definition": "To be"
+ },
+ {
+   "id": 797,
+   "word": "시인",
+   "definition": "A poet"
+ },
+ {
+   "id": 798,
+   "word": "언제",
+   "definition": "when,at what time"
+ },
+ {
+   "id": 799,
+   "word": "외",
+   "definition": "Except, save for"
+ },
+ {
+   "id": 800,
+   "word": "평가",
+   "definition": "Evaluation, appraisal"
+ },
+ {
+   "id": 801,
+   "word": "내려오다",
+   "definition": "Come down"
+ },
+ {
+   "id": 802,
+   "word": "위치",
+   "definition": "A position, a location"
+ },
+ {
+   "id": 803,
+   "word": "줄이다",
+   "definition": "reduce,decrease"
+ },
+ {
+   "id": 804,
+   "word": "가격",
+   "definition": "Price"
+ },
+ {
+   "id": 805,
+   "word": "달라지다",
+   "definition": "To change, vary"
+ },
+ {
+   "id": 806,
+   "word": "비다",
+   "definition": "To be empty, vacant"
+ },
+ {
+   "id": 807,
+   "word": "삼국",
+   "definition": "Three countries"
+ },
+ {
+   "id": 808,
+   "word": "손님",
+   "definition": "Customer"
+ },
+ {
+   "id": 809,
+   "word": "원하다",
+   "definition": "To want"
+ },
+ {
+   "id": 810,
+   "word": "통신",
+   "definition": "communications,correspondance"
+ },
+ {
+   "id": 811,
+   "word": "확인하다",
+   "definition": "To confirm,corroborate"
+ },
+ {
+   "id": 812,
+   "word": "모임",
+   "definition": "A group, a party"
+ },
+ {
+   "id": 813,
+   "word": "수",
+   "definition": "The number of sth"
+ },
+ {
+   "id": 814,
+   "word": "웃음",
+   "definition": "Laughter, a smile"
+ },
+ {
+   "id": 815,
+   "word": "기계",
+   "definition": "An instrument or  a machine"
+ },
+ {
+   "id": 816,
+   "word": "모양",
+   "definition": "signs,indications"
+ },
+ {
+   "id": 817,
+   "word": "물질",
+   "definition": "matter,material"
+ },
+ {
+   "id": 818,
+   "word": "아나운서",
+   "definition": "Announcer"
+ },
+ {
+   "id": 819,
+   "word": "뉴스",
+   "definition": "News"
+ },
+ {
+   "id": 820,
+   "word": "살아가다",
+   "definition": "Lead a life, get along"
+ },
+ {
+   "id": 821,
+   "word": "펴다",
+   "definition": "Spread out, unfold"
+ },
+ {
+   "id": 822,
+   "word": "배",
+   "definition": "Times, x-fold"
+ },
+ {
+   "id": 823,
+   "word": "수업",
+   "definition": "school,teaching"
+ },
+ {
+   "id": 824,
+   "word": "겨울",
+   "definition": "Winter"
+ },
+ {
+   "id": 825,
+   "word": "종교",
+   "definition": "religion,a faith"
+ },
+ {
+   "id": 826,
+   "word": "층",
+   "definition": "floor,grade,class"
+ },
+ {
+   "id": 827,
+   "word": "자연스럽다",
+   "definition": "To be natural"
+ },
+ {
+   "id": 828,
+   "word": "장",
+   "definition": "One piece of sth flat"
+ },
+ {
+   "id": 829,
+   "word": "식사",
+   "definition": "A meal"
+ },
+ {
+   "id": 830,
+   "word": "안다",
+   "definition": "To hold, embrace"
+ },
+ {
+   "id": 831,
+   "word": "이해",
+   "definition": "Understanding"
+ },
+ {
+   "id": 832,
+   "word": "잊다",
+   "definition": "To forget"
+ },
+ {
+   "id": 833,
+   "word": "제시하다",
+   "definition": "To present"
+ },
+ {
+   "id": 834,
+   "word": "반",
+   "definition": "Group, company, party"
+ },
+ {
+   "id": 835,
+   "word": "불과하다",
+   "definition": "Nothing more than"
+ },
+ {
+   "id": 836,
+   "word": "혹은",
+   "definition": "If that’s not the case"
+ },
+ {
+   "id": 837,
+   "word": "엄청나다",
+   "definition": "To be absurd,wild,terribly large"
+ },
+ {
+   "id": 838,
+   "word": "편",
+   "definition": "Direction, way (the wind is blowing that ~)"
+ },
+ {
+   "id": 839,
+   "word": "텔레비전",
+   "definition": "Television"
+ },
+ {
+   "id": 840,
+   "word": "파악하다",
+   "definition": "Grasp, seize, understand"
+ },
+ {
+   "id": 841,
+   "word": "편",
+   "definition": "Compilation, editing"
+ },
+ {
+   "id": 842,
+   "word": "실천",
+   "definition": "Practice"
+ },
+ {
+   "id": 843,
+   "word": "노력하다",
+   "definition": "To try hard, strive"
+ },
+ {
+   "id": 844,
+   "word": "보호",
+   "definition": "protection,shelter"
+ },
+ {
+   "id": 845,
+   "word": "씻다",
+   "definition": "To wash,cleanse"
+ },
+ {
+   "id": 846,
+   "word": "늦다",
+   "definition": "To be late (time)"
+ },
+ {
+   "id": 847,
+   "word": "이웃",
+   "definition": "The neighborhood"
+ },
+ {
+   "id": 848,
+   "word": "편지",
+   "definition": "Letter"
+ },
+ {
+   "id": 849,
+   "word": "공동",
+   "definition": "Association or  union or  collaboration"
+ },
+ {
+   "id": 850,
+   "word": "까닭",
+   "definition": "Reason"
+ },
+ {
+   "id": 851,
+   "word": "방안",
+   "definition": "A plan, scheme"
+ },
+ {
+   "id": 852,
+   "word": "센티미터",
+   "definition": "Centimeter"
+ },
+ {
+   "id": 853,
+   "word": "팔",
+   "definition": "An arm"
+ },
+ {
+   "id": 854,
+   "word": "분명하다",
+   "definition": "To be clear/obvious"
+ },
+ {
+   "id": 855,
+   "word": "분석",
+   "definition": "Analysis"
+ },
+ {
+   "id": 856,
+   "word": "소녀",
+   "definition": "A young girl"
+ },
+ {
+   "id": 857,
+   "word": "지나가다",
+   "definition": "To pass, elapse"
+ },
+ {
+   "id": 858,
+   "word": "차",
+   "definition": "order,sequence,degree"
+ },
+ {
+   "id": 859,
+   "word": "상품",
+   "definition": "Product"
+ },
+ {
+   "id": 860,
+   "word": "설명",
+   "definition": "Explanation"
+ },
+ {
+   "id": 861,
+   "word": "훌륭하다",
+   "definition": "To be excellent"
+ },
+ {
+   "id": 862,
+   "word": "관계자",
+   "definition": "The interested or affected parties"
+ },
+ {
+   "id": 863,
+   "word": "새로",
+   "definition": "newly,anew"
+ },
+ {
+   "id": 864,
+   "word": "세",
+   "definition": "Age in years"
+ },
+ {
+   "id": 865,
+   "word": "이어지다",
+   "definition": "Get joined, be connected"
+ },
+ {
+   "id": 866,
+   "word": "티브이",
+   "definition": "TV"
+ },
+ {
+   "id": 867,
+   "word": "봄",
+   "definition": "Spring"
+ },
+ {
+   "id": 868,
+   "word": "종류",
+   "definition": "kind,sort,species"
+ },
+ {
+   "id": 869,
+   "word": "낮다",
+   "definition": "Be low"
+ },
+ {
+   "id": 870,
+   "word": "어깨",
+   "definition": "Shoulder"
+ },
+ {
+   "id": 871,
+   "word": "부부",
+   "definition": "Man and wife"
+ },
+ {
+   "id": 872,
+   "word": "오래",
+   "definition": "Long, for a long time"
+ },
+ {
+   "id": 873,
+   "word": "요구",
+   "definition": "A demand, claim, request"
+ },
+ {
+   "id": 874,
+   "word": "키우다",
+   "definition": "To raise, bring up, rear"
+ },
+ {
+   "id": 875,
+   "word": "눕다",
+   "definition": "Lie down"
+ },
+ {
+   "id": 876,
+   "word": "발전하다",
+   "definition": "To develop, grow"
+ },
+ {
+   "id": 877,
+   "word": "여행",
+   "definition": "Trip"
+ },
+ {
+   "id": 878,
+   "word": "죽음",
+   "definition": "Death"
+ },
+ {
+   "id": 879,
+   "word": "고통",
+   "definition": "Suffering or  agony"
+ },
+ {
+   "id": 880,
+   "word": "공",
+   "definition": "Ball"
+ },
+ {
+   "id": 881,
+   "word": "어울리다",
+   "definition": "To be becoming, suiting"
+ },
+ {
+   "id": 882,
+   "word": "오월",
+   "definition": "May"
+ },
+ {
+   "id": 883,
+   "word": "쉬다",
+   "definition": "to relax, take a break"
+ },
+ {
+   "id": 884,
+   "word": "알리다",
+   "definition": "To inform, tell a person"
+ },
+ {
+   "id": 885,
+   "word": "차다",
+   "definition": "To be full, to be filled with (PASSIVE)"
+ },
+ {
+   "id": 886,
+   "word": "과",
+   "definition": "A lesson or  a section or  a department"
+ },
+ {
+   "id": 887,
+   "word": "멀리",
+   "definition": "Far away"
+ },
+ {
+   "id": 888,
+   "word": "빼다",
+   "definition": "Pull out, extract"
+ },
+ {
+   "id": 889,
+   "word": "예정",
+   "definition": "A program, schedule"
+ },
+ {
+   "id": 890,
+   "word": "오빠",
+   "definition": "Older brother"
+ },
+ {
+   "id": 891,
+   "word": "즐겁다",
+   "definition": "Be pleasant,agreeable"
+ },
+ {
+   "id": 892,
+   "word": "한계",
+   "definition": "Boundary, limits"
+ },
+ {
+   "id": 893,
+   "word": "흔히",
+   "definition": "Generally, commonly ; often"
+ },
+ {
+   "id": 894,
+   "word": "바탕",
+   "definition": "Natural disposition ; to go all out in a fight, 아주 크게 싸우다 ; the background"
+ },
+ {
+   "id": 895,
+   "word": "사월",
+   "definition": "April"
+ },
+ {
+   "id": 896,
+   "word": "싸우다",
+   "definition": "To fight"
+ },
+ {
+   "id": 897,
+   "word": "예쁘다",
+   "definition": "Pretty, lovely"
+ },
+ {
+   "id": 898,
+   "word": "갈등",
+   "definition": "Conflict or  troubles"
+ },
+ {
+   "id": 899,
+   "word": "느껴지다",
+   "definition": "Feel"
+ },
+ {
+   "id": 900,
+   "word": "의지",
+   "definition": "will,volition"
+ },
+ {
+   "id": 901,
+   "word": "전문",
+   "definition": "A specialty"
+ },
+ {
+   "id": 902,
+   "word": "정확하다",
+   "definition": "To be exact"
+ },
+ {
+   "id": 903,
+   "word": "초기",
+   "definition": "The early days, the initial period"
+ },
+ {
+   "id": 904,
+   "word": "나중",
+   "definition": "The last, the latter part"
+ },
+ {
+   "id": 905,
+   "word": "맛있다",
+   "definition": "Delicious"
+ },
+ {
+   "id": 906,
+   "word": "며칠",
+   "definition": "How many days"
+ },
+ {
+   "id": 907,
+   "word": "쓴 맛",
+   "definition": "see 6000"
+ },
+ {
+   "id": 908,
+   "word": "찾아오다",
+   "definition": "To go meet somebody, to go get sth"
+ },
+ {
+   "id": 909,
+   "word": "미",
+   "definition": "beauty,grace"
+ },
+ {
+   "id": 910,
+   "word": "사용",
+   "definition": "use,emply"
+ },
+ {
+   "id": 911,
+   "word": "시선",
+   "definition": "one’s line of vision"
+ },
+ {
+   "id": 912,
+   "word": "아무런",
+   "definition": "No sort of"
+ },
+ {
+   "id": 913,
+   "word": "언론",
+   "definition": "A speech, discussion"
+ },
+ {
+   "id": 914,
+   "word": "투자",
+   "definition": "Investment"
+ },
+ {
+   "id": 915,
+   "word": "지원",
+   "definition": "helping, supporting, aiding"
+ },
+ {
+   "id": 916,
+   "word": "결정하다",
+   "definition": "To decide"
+ },
+ {
+   "id": 917,
+   "word": "경영",
+   "definition": "Management or  administration"
+ },
+ {
+   "id": 918,
+   "word": "목표",
+   "definition": "goal,object"
+ },
+ {
+   "id": 919,
+   "word": "성장",
+   "definition": "Growth"
+ },
+ {
+   "id": 920,
+   "word": "숲",
+   "definition": "Forest"
+ },
+ {
+   "id": 921,
+   "word": "없어지다",
+   "definition": "To lose, get lost"
+ },
+ {
+   "id": 922,
+   "word": "작년",
+   "definition": "Last year"
+ },
+ {
+   "id": 923,
+   "word": "내려가다",
+   "definition": "To go down"
+ },
+ {
+   "id": 924,
+   "word": "미치다",
+   "definition": "To reach"
+ },
+ {
+   "id": 925,
+   "word": "새벽",
+   "definition": "dawn,daybreak"
+ },
+ {
+   "id": 926,
+   "word": "쓰레기",
+   "definition": "Garbage"
+ },
+ {
+   "id": 927,
+   "word": "얼른",
+   "definition": "Fast, quickly, rapidly"
+ },
+ {
+   "id": 928,
+   "word": "임금",
+   "definition": "Wages, pay"
+ },
+ {
+   "id": 929,
+   "word": "피해",
+   "definition": "Damage"
+ },
+ {
+   "id": 930,
+   "word": "한",
+   "definition": "A limit"
+ },
+ {
+   "id": 931,
+   "word": "무섭다",
+   "definition": "fearful,dreadful"
+ },
+ {
+   "id": 932,
+   "word": "직장",
+   "definition": "one’s work place"
+ },
+ {
+   "id": 933,
+   "word": "참다",
+   "definition": "Bear, endure"
+ },
+ {
+   "id": 934,
+   "word": "크기",
+   "definition": "Size, dimensions"
+ },
+ {
+   "id": 935,
+   "word": "고기",
+   "definition": "Meat"
+ },
+ {
+   "id": 936,
+   "word": "남기다",
+   "definition": "To leave behind"
+ },
+ {
+   "id": 937,
+   "word": "서양",
+   "definition": "The Western countries"
+ },
+ {
+   "id": 938,
+   "word": "주요",
+   "definition": "The major, the chief thing"
+ },
+ {
+   "id": 939,
+   "word": "가져오다",
+   "definition": "To bring or  get"
+ },
+ {
+   "id": 940,
+   "word": "냄새",
+   "definition": "Smell"
+ },
+ {
+   "id": 941,
+   "word": "부드럽다",
+   "definition": "soft,tender"
+ },
+ {
+   "id": 942,
+   "word": "여기다",
+   "definition": "Think, consider as"
+ },
+ {
+   "id": 943,
+   "word": "이",
+   "definition": "this,this thing"
+ },
+ {
+   "id": 944,
+   "word": "공연",
+   "definition": "A public performance"
+ },
+ {
+   "id": 945,
+   "word": "남녀",
+   "definition": "Man and woman"
+ },
+ {
+   "id": 946,
+   "word": "내놓다",
+   "definition": "Put out, take out"
+ },
+ {
+   "id": 947,
+   "word": "만들어지다",
+   "definition": "Make, create"
+ },
+ {
+   "id": 948,
+   "word": "속도",
+   "definition": "Speed"
+ },
+ {
+   "id": 949,
+   "word": "심각하다",
+   "definition": "seriousness,gravity"
+ },
+ {
+   "id": 950,
+   "word": "준비",
+   "definition": "Preparation"
+ },
+ {
+   "id": 951,
+   "word": "계속되다",
+   "definition": "To continue"
+ },
+ {
+   "id": 952,
+   "word": "구월",
+   "definition": "September"
+ },
+ {
+   "id": 953,
+   "word": "맑다",
+   "definition": "clean,pure"
+ },
+ {
+   "id": 954,
+   "word": "소년",
+   "definition": "A boy"
+ },
+ {
+   "id": 955,
+   "word": "소식",
+   "definition": "News, information"
+ },
+ {
+   "id": 956,
+   "word": "유월",
+   "definition": "June"
+ },
+ {
+   "id": 957,
+   "word": "작용",
+   "definition": "Application"
+ },
+ {
+   "id": 958,
+   "word": "허리",
+   "definition": "The waist, the small of the back"
+ },
+ {
+   "id": 959,
+   "word": "골",
+   "definition": "Goal"
+ },
+ {
+   "id": 960,
+   "word": "공업",
+   "definition": "The industry or  manufacturing industry"
+ },
+ {
+   "id": 961,
+   "word": "그중",
+   "definition": "Among the rest of them"
+ },
+ {
+   "id": 962,
+   "word": "노인",
+   "definition": "Old person"
+ },
+ {
+   "id": 963,
+   "word": "벌다",
+   "definition": "To earn (money) ; (2) to invite, to bring onto oneself"
+ },
+ {
+   "id": 964,
+   "word": "살리다",
+   "definition": "1) revive, bring around, restore to life  2) save,spare,rescue"
+ },
+ {
+   "id": 965,
+   "word": "새",
+   "definition": "A bird"
+ },
+ {
+   "id": 966,
+   "word": "영어",
+   "definition": "The english language"
+ },
+ {
+   "id": 967,
+   "word": "출신",
+   "definition": "A native, place one is from"
+ },
+ {
+   "id": 968,
+   "word": "결정",
+   "definition": "A decision or  determination"
+ },
+ {
+   "id": 969,
+   "word": "경향",
+   "definition": "Tendency or  trend"
+ },
+ {
+   "id": 970,
+   "word": "기록",
+   "definition": "A record or  a document"
+ },
+ {
+   "id": 971,
+   "word": "나름",
+   "definition": "Depending on"
+ },
+ {
+   "id": 972,
+   "word": "대답하다",
+   "definition": "To answer, reply"
+ },
+ {
+   "id": 973,
+   "word": "반면",
+   "definition": "One side"
+ },
+ {
+   "id": 974,
+   "word": "썰다",
+   "definition": "Chip, mince,dice"
+ },
+ {
+   "id": 975,
+   "word": "움직임",
+   "definition": "movement,motion,activity"
+ },
+ {
+   "id": 976,
+   "word": "이미지",
+   "definition": "Image"
+ },
+ {
+   "id": 977,
+   "word": "터지다",
+   "definition": "Break, be torn, get away from"
+ },
+ {
+   "id": 978,
+   "word": "특성",
+   "definition": "A special/unique characteristic (individuality making, peculiarity)"
+ },
+ {
+   "id": 979,
+   "word": "교장",
+   "definition": "Principal"
+ },
+ {
+   "id": 980,
+   "word": "벗다",
+   "definition": "Take off, remove"
+ },
+ {
+   "id": 981,
+   "word": "업무",
+   "definition": "Buisness, duty"
+ },
+ {
+   "id": 982,
+   "word": "입시",
+   "definition": "An entrance examination"
+ },
+ {
+   "id": 983,
+   "word": "준비하다",
+   "definition": "To prepare"
+ },
+ {
+   "id": 984,
+   "word": "청소년",
+   "definition": "Young boys and girls, teenagers"
+ },
+ {
+   "id": 985,
+   "word": "응",
+   "definition": "Yes, i see!"
+ },
+ {
+   "id": 986,
+   "word": "이기다",
+   "definition": "To win"
+ },
+ {
+   "id": 987,
+   "word": "찾아보다",
+   "definition": "To go meet somebody"
+ },
+ {
+   "id": 988,
+   "word": "취하다",
+   "definition": "To adopt, assume, take"
+ },
+ {
+   "id": 989,
+   "word": "다루다",
+   "definition": "Treat, deal with"
+ },
+ {
+   "id": 990,
+   "word": "달",
+   "definition": "The moon"
+ },
+ {
+   "id": 991,
+   "word": "사장",
+   "definition": "Company boss"
+ },
+ {
+   "id": 992,
+   "word": "삼월",
+   "definition": "March"
+ },
+ {
+   "id": 993,
+   "word": "그렇지만",
+   "definition": "But or  however"
+ },
+ {
+   "id": 994,
+   "word": "선배",
+   "definition": "one’s senior"
+ },
+ {
+   "id": 995,
+   "word": "업체",
+   "definition": "A business enterprise"
+ },
+ {
+   "id": 996,
+   "word": "키",
+   "definition": "stature,height"
+ },
+ {
+   "id": 997,
+   "word": "구하다",
+   "definition": "1) To buy or  purchase or  2) look for or  seek or  want"
+ },
+ {
+   "id": 998,
+   "word": "국회",
+   "definition": "The National Assembly"
+ },
+ {
+   "id": 999,
+   "word": "그러므로",
+   "definition": "So or  hence or  therefore"
+ },
+ {
+   "id": 1000,
+   "word": "포함하다",
+   "definition": "To include,contain"
+ }
+]
