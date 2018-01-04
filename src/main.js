@@ -11,7 +11,7 @@ $(document).ready(function () {
         var encoded = encodeURIComponent(wordEntry["word"])
         var api = "https://krdict.korean.go.kr/api/search?&key=" + key + "&q=" + encoded + "&part=exam";
 
-        var yql = 'http://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent('select * from xml where url="' + api + '"') + '&format=xml&callback=?';
+        var yql = 'https://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent('select * from xml where url="' + api + '"') + '&format=xml&callback=?';
 
         $("body").addClass("loading");
         $.getJSON(yql, function (data) {

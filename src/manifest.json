@@ -9,8 +9,9 @@
   "permissions": [
     "tabs"
   ],
+  "content_security_policy": "script-src 'self' https://query.yahooapis.com; object-src 'self'",
   "chrome_url_overrides" : {
-    "newtab": "newtab.html"
+    "newtab": "votab.html"
   },
   "short_name": "votab"
 }
