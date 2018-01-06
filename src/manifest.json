@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "Votab",
   "author": "Selina Wang",
-  "version": "1.0",
+  "version": "0.0.0.1",
   "description": "Learn a new vocab word each time you open a tab!",
   "permissions": [
     "tabs"
