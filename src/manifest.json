@@ -13,5 +13,8 @@
   "chrome_url_overrides" : {
     "newtab": "votab.html"
   },
+  "icons": { "16": "Votab16.png",
+    "48": "Votab48.png",
+    "128": "Votab128.png" },
   "short_name": "votab"
 }
