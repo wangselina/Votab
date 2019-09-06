@@ -24,6 +24,10 @@ body {
     color: #969691;
 }
 
+.vocab-info-container #romanization {
+    font-style: italic;
+}
+
 .footer-content {
     border:1px solid black;
     height:100px;
